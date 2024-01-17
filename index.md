@@ -10,11 +10,12 @@ title: Home
 _Italic Text_
 **_Bold and Italic Text_**
 
-## Research Question
+## Team members name 
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+* Chach Chaimongkol
+* Abdirahman issa Aden
+* Sean William Vellequette
+* Tristin Rodriguez
 
 ## Background
 
