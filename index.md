@@ -4,7 +4,7 @@ title: Home
 
 # Ground Moving Weather Station (G.M.W.S.- 01)
 
-## Introduction
+## Embedded Systems Design Project II (2024 Spring) 
 
 **Bold Text**
 _Italic Text_
