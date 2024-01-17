@@ -19,7 +19,7 @@ _Italic Text_
 
 ## Background
 
-![image caption]()
+![image caption](travis-scott-fire.gif)
 
 [link to background](/background)
 
