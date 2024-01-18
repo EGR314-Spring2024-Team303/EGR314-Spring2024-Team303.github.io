@@ -13,7 +13,7 @@ _Italic Text_
 ## Team members name 
 
 * Chach Chaimongkol
-* Abdirahman Isse Aden
+* Abdirahman Aden
 * Sean Vellequette
 * Tristin Rodriguez
 
