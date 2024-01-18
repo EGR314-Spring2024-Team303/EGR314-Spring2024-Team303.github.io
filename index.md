@@ -14,7 +14,7 @@ _Italic Text_
 
 * Chach Chaimongkol
 * Abdirahman issa Aden
-* Sean William Vellequette
+* Sean Vellequette
 * Tristin Rodriguez
 
 ## Background
