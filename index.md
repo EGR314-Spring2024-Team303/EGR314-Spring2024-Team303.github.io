@@ -1,11 +1,9 @@
 --
-title: 
+title: Embedded Systems Design Project II (2024 Spring) 
 ---
 
 # Ground Moving Weather Station (G.M.W.S.- 01)
 ## Team 303 
-
-## Embedded Systems Design Project II (2024 Spring) 
 
 **Bold Text**
 _Italic Text_
