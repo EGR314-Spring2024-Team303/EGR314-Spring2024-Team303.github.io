@@ -1,5 +1,4 @@
---
-title: Embedded Systems Design Project II (2024 Spring) 
+-- Embedded Systems Design Project II (2024 Spring) 
 ----
 
 # Ground Moving Weather Station (G.M.W.S.- 01)
@@ -25,7 +24,7 @@ title: Embedded Systems Design Project II (2024 Spring)
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+[example link to idealab]()
 
 
 ## References
