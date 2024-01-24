@@ -1,7 +1,7 @@
 -- title 
 ---
 
-# Embedded Systems Design Project II (2024 Spring)  
+# Embedded Systems Design Project II (2024 Spring)  | 24 / 1 /2024|
 # Arizona State University  Dr. Kevin Nichols
 
 
