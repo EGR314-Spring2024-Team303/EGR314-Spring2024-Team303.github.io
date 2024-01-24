@@ -1,8 +1,9 @@
 --
-title: Home
+title: 
 ---
 
 # Ground Moving Weather Station (G.M.W.S.- 01)
+## Team 303 
 
 ## Embedded Systems Design Project II (2024 Spring) 
 
