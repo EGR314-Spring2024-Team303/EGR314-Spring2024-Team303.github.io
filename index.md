@@ -2,8 +2,7 @@
 ---
 
 # Embedded Systems Design Project II (2024 Spring)  
-# Arizona State University 
-# Dr. Kevin Nichols
+# Arizona State University  Dr. Kevin Nichols
 
 ## Ground Moving Weather Station (G.M.W.S.- 01)
 
