@@ -1,10 +1,10 @@
-Embedded Systems Design Project II (2024 Spring) 
------
+# Embedded Systems Design Project II (2024 Spring) 
 
 
-# Ground Moving Weather Station (G.M.W.S.- 01)
-## Team 303 
-### Team member's name 
+
+##Ground Moving Weather Station (G.M.W.S.- 01)
+### Team 303 
+#### Team member's name 
 
 * Chach Chaimongkol
 * Abdirahman Aden
