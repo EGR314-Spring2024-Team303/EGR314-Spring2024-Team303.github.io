@@ -1,8 +1,7 @@
 -- title 
 ---
 
-24 / 1 /2024
-# Embedded Systems Design Project II (2024 Spring) 
+# Embedded Systems Design Project II (2024 Spring)  24 / 1 /2024
 # Arizona State University 
 
 ## Ground Moving Weather Station (G.M.W.S.- 01)
