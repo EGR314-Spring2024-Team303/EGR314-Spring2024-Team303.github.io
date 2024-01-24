@@ -4,9 +4,10 @@
 # Embedded Systems Design Project II (2024 Spring)  
 # Arizona State University  Dr. Kevin Nichols
 
-## Ground Moving Weather Station (G.M.W.S.- 01)
 
+### Ground Moving Weather Station (G.M.W.S.- 01)
 ### Team 303
+
 ##### Team member's name 
 * Chach Chaimongkol
 * Abdirahman Aden
