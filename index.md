@@ -15,8 +15,6 @@ title
 * Sean Vellequette
 * Tristin Rodriguez-McKay
 
-
-
 ## Team Organization 
 
 ### Mission Statement 
@@ -25,7 +23,6 @@ title
 ## User Needs, Benchmarking, and Requirements 
 ## Background
 [link to background](/background) 
-
 ## Results
 1. Numbered Point 1
 1. Numbered Point 2
