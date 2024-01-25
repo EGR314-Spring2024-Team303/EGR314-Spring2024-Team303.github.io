@@ -11,7 +11,7 @@ Keywords: "Portable Weather Station"
 
 Product: Sainlogic Professional WiFi Weather Station with Outdoor Sensor
 Price: 199.97
-Vender
+Vender: Amazon
 Description: Sainlogic Professional WiFi Weather Station with Outdoor Sensor, Internet Wireless Weather Station Remote Monitoring System, 10.2 Inch Color Display with Rain Gauge, Temperature and UV, Wunderground
 
 Search Link:[Sainlogic-FT0300](https://www.amazon.com/sainlogic-FT0300-Sainlogic-Weather-Station/dp/B0836FVVYZ/ref=cm_cr_arp_d_product_top?ie=UTF8)
