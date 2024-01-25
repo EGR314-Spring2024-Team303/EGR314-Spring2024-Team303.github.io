@@ -24,5 +24,5 @@ title: Appendix A
       Declares a block-scoped, local variable, optionally initializing it to a value.
     </td>
   </tr>
-  "table 1"
+  table 1:"Communication Channels"
 </table>
