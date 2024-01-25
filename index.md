@@ -6,9 +6,9 @@ title: Home
 
 ## Introduction
 
-**Bold Text** hello
-_Italic Text_ hello 
-**_Bold and Italic Text_** hello
+**Bold Text** 
+_Italic Text_  
+**_Bold and Italic Text_**(hello)
 
 ## Team 303 
 
