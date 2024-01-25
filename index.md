@@ -23,10 +23,10 @@ title: Home
 [Presentation 1](/Presentation1.md)
 
 ## Appendix
-[Appendix A](/Appendix_A.md)
+[Appendix A](/Appendix_A)
 
-[Appendix B](/Apendix_B.md)
+[Appendix B](/Appendix_B)
 
-[Appendix C](/)
+[Appendix C](/Appendix_C)
 
-[Appemdix D](/)
+[Appemdix D](/Appendix_D)
