@@ -15,7 +15,7 @@ title: Appendix A
      S
     </td>
     <td>
-     T
+     Sean Vellequette
     </td>
     <td>
      A
