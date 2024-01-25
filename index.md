@@ -23,7 +23,11 @@ title
 
 ## Background
 
-[link to background](/background)
+[link to background](/background) 
+
+## Background 2 
+
+[link to background2](/background2)
 
 ## Results
 
