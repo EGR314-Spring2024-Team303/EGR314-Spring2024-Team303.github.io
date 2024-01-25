@@ -15,7 +15,7 @@ title: Home
 * Sean Vellequete
 
 ## Team Organizations 
-[link to Team organization](/Team organization)
+[link to Team organization]
 
 ## Background
 
