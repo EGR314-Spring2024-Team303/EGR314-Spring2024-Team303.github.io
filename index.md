@@ -5,13 +5,23 @@
 ## 1 / 24 / 2024 
 
 ## Ground Moving Weather Station (G.M.W.S.- 01)
-
 ### Team 303
 #### Team member's name 
 * Chach Chaimongkol
 * Abdirahman Aden
 * Sean Vellequette
 * Tristin Rodriguez-McKay
+
+
+## Team Organization 
+# Mission Statement 
+
+
+
+
+
+
+
 
 ## Background
 
