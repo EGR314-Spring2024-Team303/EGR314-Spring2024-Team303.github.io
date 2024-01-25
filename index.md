@@ -7,7 +7,6 @@ title: Home
 #### 1/25/2024
 
 ## Team 303 
-
 ### Team members 
 * Abdirahman Aden
 * Chach Chaimongkol
@@ -23,8 +22,4 @@ title: Home
 
 [Presentation 1](/Presentation1.md)
 
-
-
-
-
-## References
+## Appendix
