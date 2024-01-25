@@ -19,7 +19,7 @@ title: Home
 
 [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md)
 
-[Design Ideation](/)
+[Design Ideation](/Design_Ideation.md)
 
 
 
