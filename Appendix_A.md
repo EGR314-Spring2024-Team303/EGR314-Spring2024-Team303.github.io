@@ -20,6 +20,9 @@ title: Appendix A
     <td>
       Declares a block-scoped, read-only named constant.
     </td>
+      <td>
+      Declares a block-scoped, local variable, optionally initializing it to a value.
+    </td>
   </tr>
-  ...
+  "table 1"
 </table>
