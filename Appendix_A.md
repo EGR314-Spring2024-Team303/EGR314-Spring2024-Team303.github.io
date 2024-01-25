@@ -18,7 +18,11 @@ title: Appendix A
      Sean Vellequette
     </td>
     <td>
-     A
+     Personal:
+seanvell@gmail.com
+School: 
+svellequ@asu.edu
+
     </td>
       <td>
      C
