@@ -3,13 +3,10 @@ title: Home
 ---
 
 # Ground Moving Weather Station (G.M.W.S.-01) 
-### Team 303 
+## Team 303 
 
 ### 1/25/2024
-
-**Bold Text** 
-_Italic Text_  
-**_Bold and Italic Text_**
+### Arizona State University | Embedded Systems Design Project II (Spring 2024) | Dr.Kevin Nichols
 
 #### Team members 
 * Abdirahman Aden
