@@ -3,8 +3,22 @@ title: Appendix A
 ---
 
 # Communication Channels 
-|Symbol|Name |Email |First Contact | Second Contact | Third Contact | 
-|---|---|---|---|---|---|
-| S  | Sean Vellequete   | Personal:seanvell@gmail.com            School:svellequ@asu.edu           | Discord: hogintosh#2824 |    |    |
-| T  | Tristin Rodriguez | Personal:tristinrodriguez78@gmail.com                                    School: tsrodri3@asu.edu |  Discord:Tristin#0515   |   |   |  
-|    |                   |
+<table>
+  <tr>
+    <th>var</th>
+    <th>let</th>
+    <th>const</th>
+  </tr>
+  <tr>
+    <td>
+      Declares a variable, optionally initializing it to a value.
+    </td>
+    <td>
+      Declares a block-scoped, local variable, optionally initializing it to a value.
+    </td>
+    <td>
+      Declares a block-scoped, read-only named constant.
+    </td>
+  </tr>
+  ...
+</table>
