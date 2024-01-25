@@ -14,7 +14,7 @@
 
 
 ## Team Organization 
-# Mission Statement 
+### Mission Statement 
 
 
 
