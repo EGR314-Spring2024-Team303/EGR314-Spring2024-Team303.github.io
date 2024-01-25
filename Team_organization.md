@@ -1,3 +1,4 @@
 ---
-Title : Team Organization
+Title: Team Organization
 ---
+# Team Organization
