@@ -6,12 +6,15 @@ title
 ## 1 / 24 / 2024 
 
 ## Ground Moving Weather Station (G.M.W.S.- 01)
+
 ### Team 303
+
 #### Team member's name 
 * Chach Chaimongkol
 * Abdirahman Aden
 * Sean Vellequette
 * Tristin Rodriguez-McKay
+
 
 
 ## Team Organization 
@@ -20,13 +23,10 @@ title
 * Team 303 our goal is to create a product that can detect temperature and humidity while being mobile. Through the class and ASU guidelines, we will create a product that will be innovative, adaptive, and durable to ensure the quality of our product will meet customer needs if sold on the market.
 
 ## User Needs, Benchmarking, and Requirements 
-
 ## Background
-
 [link to background](/background) 
 
 ## Results
-
 1. Numbered Point 1
 1. Numbered Point 2
 1. Numbered Point 3
