@@ -8,7 +8,7 @@ Five existing products that were reviewed that were related to the ground moving
 1. 
 Keywords: "Portable Weather Station"
 
-Search Link:(https://www.amazon.com/sainlogic-FT0300-Sainlogic-Weather-Station/dp/B0836FVVYZ/ref=cm_cr_arp_d_product_top?ie=UTF8)
+Search Link:[Sainlogic-FT0300](https://www.amazon.com/sainlogic-FT0300-Sainlogic-Weather-Station/dp/B0836FVVYZ/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
 Product: Sainlogic Professional WiFi Weather Station with Outdoor Sensor
 
