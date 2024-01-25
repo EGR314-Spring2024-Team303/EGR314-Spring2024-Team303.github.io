@@ -18,7 +18,7 @@ title: Design Ideation
 #### Concept 2
 ![Concept 2 Iso](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/39510849/92a647dd-9664-4cf1-a2a5-1bbe4c46a54e)
 #### Concept 3
-![Concept 3 iso](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/39510849/b538dede-a3cd-44dc-bdc4-cd1ac9483274)
+![Concept3](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/39510849/46b365b9-fa93-49db-ab1e-e9d680756157)
 
 
 
