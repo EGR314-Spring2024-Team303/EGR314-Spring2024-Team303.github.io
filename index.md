@@ -24,3 +24,6 @@ title: Home
 
 ## Appendix
 [Appendix A](/Appendix_A.md)
+[Appendix B](/)
+[Appendix C](/)
+[Appemdix D](/)
