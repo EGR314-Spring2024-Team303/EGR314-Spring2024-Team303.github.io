@@ -2,19 +2,20 @@
 title: Home
 ---
 
-# Ground Moving Weather Station (G.M.W.S.-01)
+# Ground Moving Weather Station (G.M.W.S.-01) 
+### Team 303 
 
-## Introduction
+### 1/25/2024
 
 **Bold Text** 
 _Italic Text_  
 **_Bold and Italic Text_**
 
-## Team 303 
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+#### Team members 
+* Abdirahman Aden
+* Chach Chaimongkol
+* Tristin Rodriguez
+* Sean Vellequete
 
 ## Background
 
