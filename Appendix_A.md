@@ -12,16 +12,16 @@ title: Appendix A
   </tr>
   <tr>
     <td>
-      Declares a variable, optionally initializing it to a value.
+     S
     </td>
     <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+     T
     </td>
     <td>
-      Declares a block-scoped, read-only named constant.
+     A
     </td>
       <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+     C
     </td>
   </tr>
    </tr>
