@@ -13,3 +13,4 @@ Search Link:(https://www.amazon.com/sainlogic-FT0300-Sainlogic-Weather-Station/d
 Product: Sainlogic Professional WiFi Weather Station with Outdoor Sensor
 
 Positive Reviews
+![Positive_1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/e4cbe2b3-c947-420b-b9c7-6c773daefda1)
