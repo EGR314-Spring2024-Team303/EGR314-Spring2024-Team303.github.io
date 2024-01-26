@@ -9,6 +9,8 @@ title: Appendix A
     <th>let</th>
     <th>const</th>
     <th>const</th>
+    <th>const</th>
+    <th>const</th>
   </tr>
   <tr>
     <td>
