@@ -12,3 +12,4 @@ title: Appendix B
 ![Negative Review_2](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/5f530860-d5c8-427c-a583-a0758a2a1446)
 
 ## GoveeLife Smart Dehumidifier
+![Positive_3](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/828de569-5fa7-4c9e-9b33-931d2d265982)
