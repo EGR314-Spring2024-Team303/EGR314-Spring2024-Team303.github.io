@@ -18,7 +18,7 @@ title: Appendix A
      Sean Vellequette
     </td>
     <td>
-     Personal: git config --global user.email "seanvell@gmail.com"
+     Personal: <form action="http://formspree.io/seanvell@gmail.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
      School:   svellequ@asu.edu
     </td>
       <td>
