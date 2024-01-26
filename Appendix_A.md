@@ -72,4 +72,4 @@ title: Appendix A
 </table>
 
 # Meeting Schedule
-![Meeting Scedule](/table - 1 appendix A .jpg)
+![Meeting Scedule](table - 1 appendix A .jpg)
