@@ -18,7 +18,7 @@ title: Appendix A
      Sean Vellequette
     </td>
     <td>
-     School:   svellequ@asu.edu
+     <a href=mailto:“svellequ@asu.edu”>Reach out to us</a>
     </td>
       <td>
      Discord: hogintosh#2824
