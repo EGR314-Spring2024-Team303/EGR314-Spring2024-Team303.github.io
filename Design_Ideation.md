@@ -26,6 +26,7 @@ The second sketch represents a 2-wheeler RC with a PCB socket and another compon
 #### Concept 3
 ![Concept3](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/39510849/46b365b9-fa93-49db-ab1e-e9d680756157)
 ##### Description:
+This is an RC Truck Design that has an open PCB design for its wind sensor and accurate temperature gauge. The High wheel clearance will make this design easy to maneuver over large obstacles without getting stuck. This four-wheel design will also feature a differential and traction control. All of this can be accomplished with the truck Cab design with it being able to hold large batteries for extended periods.
 
 
 
