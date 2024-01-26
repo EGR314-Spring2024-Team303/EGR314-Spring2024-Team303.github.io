@@ -22,8 +22,7 @@ title: Appendix A
       </td>
       <td>
       Declares a variable, optionally initializing it to a value.
-      </td>
-     
+      </td>  
   </tr>
   ...
 </table>
