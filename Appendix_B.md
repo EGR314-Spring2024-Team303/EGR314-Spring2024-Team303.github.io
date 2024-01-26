@@ -24,4 +24,4 @@ title: Appendix B
 ![Negative_5](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/8ad1c4ce-128d-4e54-8f42-1361e914b89a)
 
 ## Ranked Needs 
-![Ranked Needs()]
+![Ranked Needs()
