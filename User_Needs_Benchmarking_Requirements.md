@@ -3,7 +3,7 @@ Title: User Needs Benchmarking
 ---
 # User Needs,Benchmarking, and Requirements 
 ### Voices of Customers (VOC) Benchmarking
-Five existing products that were reviewed that were related to the ground moving weather station. Product that are similar to the idea of the ground moving weather station were chosen. Also products that highlighted certain features were chosen. Even if its not the exact prduct that is being made certain qualities or features helped with possible designs. Each product has three postive and negitve reviews amd has consumer needs based on each of the reviews. If you want more information on the consumer reviews you can refer to [Appendix B](Appendix_B.md)
+Five existing products that were reviewed that were related to the ground moving weather station. Product that are similar to the idea of the ground moving weather station were chosen. Also products that highlighted certain features were chosen. Even if its not the exact prduct that is being made certain qualities or features helped with possible designs. Each product has three postive and negitve reviews amd has consumer needs based on each of the reviews. If you want more information on the consumer reviews you can refer to [Appendix B](Appendix_B.md).
 
 1.
 
