@@ -3,7 +3,7 @@ Title: User Needs Benchmarking
 ---
 # User Needs,Benchmarking, and Requirements 
 ## Voices of Customers (VOC) Benchmarking
-Five existing products that were reviewed that were related to the ground moving weather station. Product that are similar to the idea of the ground moving weather station were chosen. Also products that highlighted certain features were chosen. Even if its not the exact prduct that is being made certain qualities or features helped with possible designs. Each product has three postive and negitve reviews amd has consumer needs based on each of the reviews.
+Five existing products that were reviewed that were related to the ground moving weather station. Product that are similar to the idea of the ground moving weather station were chosen. Also products that highlighted certain features were chosen. Even if its not the exact prduct that is being made certain qualities or features helped with possible designs. Each product has three postive and negitve reviews amd has consumer needs based on each of the reviews. If you want more information on the consumer reviews you can refer to 
 
 1.
 
@@ -110,12 +110,12 @@ Vendor: Aamazon
 Search Link: [Protmex HT607](https://www.amazon.com/Protmex-Temperature-Precision-Hygrometer-Thermometer/dp/B0BD7NQG2J/ref=asc_df_B0BD7NQG2J/?tag=hyprod-20&linkCode=df0&hvadid=632118739861&hvpos=&hvnetw=g&hvrand=4707338518576136231&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030087&hvtargid=pla-1876874205962&psc=1&mcid=897ddb149aac355abde03b362e08e9e6&gclid=CjwKCAiA75itBhA6EiwAkho9e5Bj7soR1f_UIdCkTtghz46PJUXqdbV2vzPK7B3P0EGmfggI6NnZdRoC2qcQAvD_BwE)
 
 
-Positive Reviews 
+### Positive Reviews 
 
 HVAC service technicians and water damage restoration professionals find the tool invaluable for their respective roles. With over 20 years of experience, an HVAC tech appreciates the device's ability to identify moisture levels in homes, aiding in troubleshooting comfort issues and offering precise recommendations. The tool's comprehensive features allow for a deeper analysis of relative humidity (RH) and dew point, providing a reliable solution in one meter. Its accuracy has been verified against other tools, earning the user's trust. Similarly, a water damage restoration technician relies on the product daily, praising its slim and pocket-friendly design, quick data reading and adjustment, and the longevity of the included battery. However, the user suggests additional shock-absorbing features for enhanced durability, learned through real-world use. Another user, discovering the tool later, expresses gratitude for its role in detecting high humidity in their apartment closet, finding it simple, effective, and easy to use straight out of the box. Common needs identified include quick and accurate data reading, product longevity, portability, durable design, and user-friendly operation.
 
 
-Negitve Reviews 
+### Negitve Reviews 
 
 The user, having compared this hygrometer to a Fieldpiece in a humid basement, expresses distrust in its accuracy, noting a significant difference of over 5 points. Criticisms include slow adjustment and display of temperature measures. While the user appreciates the readability, especially with the backlight, they ultimately find the accuracy below the advertised tolerances. Despite the initially promising features and affordable price, the hygrometer's accuracy falls short upon comparison with other devices, leading the user to return it. The key needs emphasized include an affordable price, accurate data, a user-friendly interface, and good build quality.
 
