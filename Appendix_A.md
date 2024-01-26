@@ -65,11 +65,11 @@ title: Appendix A
      Chach Chaimongkol
     </td>
     <td>
-      Personal:chachgergamer93@gmail.com
-      School:cchaimon@asu.edu
+      Personal: chachgergamer93@gmail.com
+      School:   cchaimon@asu.edu
     </td>
       <td>
-     Discord:chach#6546
+     Discord:  chach#6546
     </td>
   </tr>
    </tr>
