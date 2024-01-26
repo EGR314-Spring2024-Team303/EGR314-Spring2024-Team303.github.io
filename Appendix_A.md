@@ -63,7 +63,7 @@ title: Appendix A
       Declares a block-scoped, read-only named constant.
       </td>
       <td>
-      Declares a variable, optionally initializing it to a value.
+      Discord: chach#6546
       </td>  
   </tr>
   ...
