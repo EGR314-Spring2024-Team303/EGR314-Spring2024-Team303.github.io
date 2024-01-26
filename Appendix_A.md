@@ -28,13 +28,14 @@ title: Appendix A
    </tr>
   <tr>
     <td>
-      Declares a variable, optionally initializing it to a value.
+     T
     </td>
     <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+      Tristin Rodriguez
     </td>
     <td>
-      Declares a block-scoped, read-only named constant.
+      Personal: tristinrodriguez78@gmail.com 
+      School:   tsrodri3@asu.edu
     </td>
       <td>
       Declares a block-scoped, local variable, optionally initializing it to a value.
