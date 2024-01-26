@@ -18,7 +18,6 @@ title: Appendix A
      Sean Vellequette
     </td>
     <td>
-     Personal: seanvell@gmail.com
      School:   svellequ@asu.edu
     </td>
       <td>
@@ -34,8 +33,7 @@ title: Appendix A
       Tristin Rodriguez
     </td>
     <td>
-      Personal: tristinrodriguez78@gmail.com 
-      School:   tsrodri3@asu.edu
+      School: tsrodri3@asu.edu
     </td>
       <td>
       Discord: Tristin#0515
@@ -49,8 +47,7 @@ title: Appendix A
       Abdirahamn Aden
     </td>
     <td>
-      Personal: abdiaden3333@gmail.com
-      School:   aaden10@asu.edu
+       School:   aaden10@asu.edu
     </td>
       <td>
       Discord: ondeck22#5675
@@ -65,8 +62,7 @@ title: Appendix A
      Chach Chaimongkol
     </td>
     <td>
-      Personal: chachgergamer93@gmail.com
-      School:   cchaimon@asu.edu
+       School:   cchaimon@asu.edu
     </td>
       <td>
      Discord:  chach#6546
