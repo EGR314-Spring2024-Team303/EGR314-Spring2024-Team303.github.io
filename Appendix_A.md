@@ -38,7 +38,7 @@ title: Appendix A
       School:   tsrodri3@asu.edu
     </td>
       <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+      Discord: Tristin#0515
     </td>
   </tr>
     <tr>
