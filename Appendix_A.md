@@ -43,16 +43,17 @@ title: Appendix A
   </tr>
     <tr>
     <td>
-      Declares a variable, optionally initializing it to a value.
+      A
     </td>
     <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+      Abdirahamn Aden
     </td>
     <td>
-      Declares a block-scoped, read-only named constant.
+      Personal: abdiaden3333@gmail.com
+      School:   aaden10@asu.edu
     </td>
       <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+      Discord: ondeck22#5675
     </td>
   </tr>
    </tr>
