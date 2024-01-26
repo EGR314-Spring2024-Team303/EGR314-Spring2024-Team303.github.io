@@ -18,7 +18,7 @@ title: Appendix A
      Sean Vellequette
     </td>
     <td>
-     Personal: <form action="http://formspree.io/seanvell@gmail.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+     Personal: <form action="http://formspree.io/seanvell@gmail.com"><input type="email" name="_replyto"><textarea name="body"></textarea><input type="submit" value="Send"></form>
      School:   svellequ@asu.edu
     </td>
       <td>
