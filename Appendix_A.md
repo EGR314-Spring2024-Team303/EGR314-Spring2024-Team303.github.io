@@ -12,7 +12,7 @@ title: Appendix A
   </tr>
   <tr>
       <td>
-      Declares a variable, optionally initializing it to a value.
+      S
       </td>
       <td>
       Declares a block-scoped, local variable, optionally initializing it to a value.
@@ -26,7 +26,7 @@ title: Appendix A
   </tr>
   <tr>
       <td>
-      Declares a variable, optionally initializing it to a value.
+      T
       </td>
       <td>
       Declares a block-scoped, local variable, optionally initializing it to a value.
@@ -40,7 +40,7 @@ title: Appendix A
   </tr>
   <tr>
       <td>
-      Declares a variable, optionally initializing it to a value.
+      A
       </td>
       <td>
       Declares a block-scoped, local variable, optionally initializing it to a value.
@@ -54,7 +54,7 @@ title: Appendix A
   </tr>
   <tr>
       <td>
-      Declares a variable, optionally initializing it to a value.
+      C
       </td>
       <td>
       Declares a block-scoped, local variable, optionally initializing it to a value.
