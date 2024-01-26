@@ -12,7 +12,6 @@ title: Home
 * Chach Chaimongkol
 * Tristin Rodriguez
 * Sean Vellequete
-  Hi dudes
 
 [Team organization](/Team_organization)
 
