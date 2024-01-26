@@ -71,3 +71,5 @@ title: Appendix A
    </tr>
   table 1: "Communication Channels"
 </table>
+
+# Meeting Schedule
