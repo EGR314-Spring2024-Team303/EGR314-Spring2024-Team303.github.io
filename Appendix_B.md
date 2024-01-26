@@ -24,7 +24,8 @@ title: Appendix B
 ![Negative_5](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/8ad1c4ce-128d-4e54-8f42-1361e914b89a)
 
 ## Compile Needs 
-
+![Compile Needs 1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/55d2734a-0b1d-4775-ac12-07c679087e25)
+![Compile Needs 2](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/c63671b9-c03b-4c5a-b1c8-38f0e2673f4d)
 
 ## Ranked Needs 
 ![Ranked Needs](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/c764b9a2-19bd-404d-9f62-f3ea2ed2df41)
