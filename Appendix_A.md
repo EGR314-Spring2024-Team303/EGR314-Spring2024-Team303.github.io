@@ -15,7 +15,7 @@ title: Appendix A
       S
       </td>
       <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+      Sean Vellequete
       </td>
       <td>
       Declares a block-scoped, read-only named constant.
