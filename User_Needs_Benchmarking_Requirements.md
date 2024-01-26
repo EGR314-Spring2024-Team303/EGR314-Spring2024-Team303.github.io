@@ -96,9 +96,13 @@ Price: $29.99
 Vendor: Aamazon
 
 Search Link: [Protmex HT607](https://www.amazon.com/Protmex-Temperature-Precision-Hygrometer-Thermometer/dp/B0BD7NQG2J/ref=asc_df_B0BD7NQG2J/?tag=hyprod-20&linkCode=df0&hvadid=632118739861&hvpos=&hvnetw=g&hvrand=4707338518576136231&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030087&hvtargid=pla-1876874205962&psc=1&mcid=897ddb149aac355abde03b362e08e9e6&gclid=CjwKCAiA75itBhA6EiwAkho9e5Bj7soR1f_UIdCkTtghz46PJUXqdbV2vzPK7B3P0EGmfggI6NnZdRoC2qcQAvD_BwE)
+Appendix B 
 
-Positive Reviews
+Positive Reviews (Summary)
 ![Positive_5](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/adb5b8b6-a4a6-484d-b490-6cd6aa9d3972)
 
-Negitve Reviews
+Negitve Reviews (summary)
 ![Negative_5](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/d40a9abe-db2b-46ac-9219-fe4ebb9f4f19)
+
+## Organize, consolidate, and group needs statements
+We organized the needs into stars. Three stars is most important and one stars is least important.
