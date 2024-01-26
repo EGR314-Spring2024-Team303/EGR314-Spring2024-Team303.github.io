@@ -65,11 +65,10 @@ title: Appendix A
        <a href=mailto:“cchaimon@asu.edu”>Contact me</a>
     </td>
       <td>
-     Discord:  chach#6546
+     Discord: chach#6546
     </td>
   </tr>
    </tr>
-  table 1: "Communication Channels"
 </table>
 
 # Meeting Schedule
