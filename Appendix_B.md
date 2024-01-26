@@ -22,3 +22,6 @@ title: Appendix B
 ## Protmex HT607 
 ![Positive_5](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/117df6f4-404b-4165-a084-c2d43626979a)
 ![Negative_5](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/8ad1c4ce-128d-4e54-8f42-1361e914b89a)
+
+## Ranked Needs 
+![Ranked Needs()]
