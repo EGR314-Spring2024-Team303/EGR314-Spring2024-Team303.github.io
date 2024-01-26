@@ -18,11 +18,11 @@ title: Appendix A
      Sean Vellequette
     </td>
     <td>
-     Personal: <form action="http://formspree.io/seanvell@gmail.com"><input type="email" name="_replyto"><textarea name="body"></textarea><input type="submit" value="Send"></form>
+     Personal: seanvell@gmail.com
      School:   svellequ@asu.edu
     </td>
       <td>
-     C
+     Discord: hogintosh#2824
     </td>
   </tr>
    </tr>
