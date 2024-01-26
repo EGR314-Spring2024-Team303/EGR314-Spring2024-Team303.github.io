@@ -18,7 +18,7 @@ title: Appendix A
      Sean Vellequette
     </td>
     <td>
-     <a href=mailto:“svellequ@asu.edu”>Contact Me</a>
+     <a href=mailto:“svellequ@asu.edu”>Contact me</a>
     </td>
       <td>
      Discord: hogintosh#2824
@@ -33,7 +33,7 @@ title: Appendix A
       Tristin Rodriguez
     </td>
     <td>
-      School: tsrodri3@asu.edu
+     <a href=mailto:“tsrodri3@asu.edu”>Contact me</a>
     </td>
       <td>
       Discord: Tristin#0515
@@ -47,7 +47,7 @@ title: Appendix A
       Abdirahamn Aden
     </td>
     <td>
-       School:   aaden10@asu.edu
+      <a href=mailto:“aaden10@asu.edu”>Contact me</a>
     </td>
       <td>
       Discord: ondeck22#5675
@@ -62,7 +62,7 @@ title: Appendix A
      Chach Chaimongkol
     </td>
     <td>
-       School:   cchaimon@asu.edu
+       <a href=mailto:“cchaimon@asu.edu”>Contact me</a>
     </td>
       <td>
      Discord:  chach#6546
