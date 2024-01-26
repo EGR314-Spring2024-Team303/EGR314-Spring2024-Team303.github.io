@@ -18,7 +18,7 @@ title: Appendix A
       Sean Vellequete
       </td>
       <td>
-      Declares a block-scoped, read-only named constant.
+      Discord: hogintosh#2824
       </td>
       <td>
       Declares a variable, optionally initializing it to a value.
@@ -32,7 +32,7 @@ title: Appendix A
       Tristin Rodriguez
       </td>
       <td>
-      Declares a block-scoped, read-only named constant.
+      Discord: Tristin#0515
       </td>
       <td>
       Declares a variable, optionally initializing it to a value.
