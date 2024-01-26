@@ -11,7 +11,7 @@ title: Design Ideation
 * 🟩 Embedded Systems: Anything related to the PCB (Sockets, EMF, Fuse Overcharge, Sensors)
 * 🟦 Hardware: Physical components to support the PCB (Wheels, 3D print items, Frames) 
 * 🟧 Software: Anything that will be digital to support the PCB (AI, Voice Recognition, Code)
-
+<color style="color: aqua">Teste</code>
 ### Concepts
 #### Concept 1
 ![Concept1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/39510849/88a70d1b-fcb9-4aa8-82bf-23aee8d07889)
