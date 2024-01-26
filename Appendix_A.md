@@ -9,8 +9,6 @@ title: Appendix A
     <th>let</th>
     <th>const</th>
     <th>const</th>
-    <th>const</th>
-    <th>const</th>
   </tr>
   <tr>
       <td>
@@ -25,11 +23,7 @@ title: Appendix A
       <td>
       Declares a variable, optionally initializing it to a value.
       </td>
-      <td>
-      Declares a variable, optionally initializing it to a value.
-      <td>
-      Declares a variable, optionally initializing it to a value.
-      </td>
+     
   </tr>
   ...
 </table>
