@@ -29,7 +29,7 @@ title: Appendix A
       T
       </td>
       <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+      Tristin Rodriguez
       </td>
       <td>
       Declares a block-scoped, read-only named constant.
