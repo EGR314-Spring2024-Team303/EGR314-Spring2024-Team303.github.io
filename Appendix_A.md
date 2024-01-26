@@ -72,3 +72,4 @@ title: Appendix A
 </table>
 
 # Meeting Schedule
+![Meeting Scedule](/)
