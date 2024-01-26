@@ -18,7 +18,7 @@ title: Appendix A
      Sean Vellequette
     </td>
     <td>
-     <a href=mailto:“svellequ@asu.edu”>Contact me</a>
+    svellequ@asu.edu
     </td>
       <td>
      Discord: hogintosh#2824
@@ -33,7 +33,7 @@ title: Appendix A
       Tristin Rodriguez
     </td>
     <td>
-     <a href=mailto:“tsrodri3@asu.edu”>Contact me</a>
+     tsrodri3@asu.edu
     </td>
       <td>
       Discord: Tristin#0515
@@ -47,7 +47,7 @@ title: Appendix A
       Abdirahamn Aden
     </td>
     <td>
-      <a href=mailto:“aaden10@asu.edu”>Contact me</a>
+      aaden10@asu.edu
     </td>
       <td>
       Discord: ondeck22#5675
@@ -62,12 +62,15 @@ title: Appendix A
      Chach Chaimongkol
     </td>
     <td>
-       <a href=mailto:“cchaimon@asu.edu”>Contact me</a>
+     cchaimon@asu.edu
     </td>
       <td>
      Discord: chach#6546
     </td>
-
+     </tr>
+   </tr>
+  <tr>
+    <td>
 </table>
 
 ![table - 1 appendix A ](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/f56587fe-2944-4b9b-94a2-48fcaeb8c9c3)
