@@ -59,16 +59,17 @@ title: Appendix A
    </tr>
     <tr>
     <td>
-      Declares a variable, optionally initializing it to a value.
+      C
     </td>
     <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+     Chach Chaimongkol
     </td>
     <td>
-      Declares a block-scoped, read-only named constant.
+      Personal:chachgergamer93@gmail.com
+      School:cchaimon@asu.edu
     </td>
       <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+     Discord:chach#6546
     </td>
   </tr>
    </tr>
