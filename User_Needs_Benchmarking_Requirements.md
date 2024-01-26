@@ -124,7 +124,9 @@ The user, having compared this hygrometer to a Fieldpiece in a humid basement, e
 ### Ranked Needs
 After the products were reviewed the consumer needs were organied in a ranking system. The ranking system was from one star to three stars. Three stars being the the most important and one star being the least important. The catagory of three stars were needs that foucus on the fundimental aspects of the product. This means that the needs listed in this catoagory are essential to the product fucntionaly somoothy or fucntional overall. Needs such as Accurate data, Data accessibility, and Consistent data are important to the basic functioanlity. The second star catagory result isn addtional features that make it markitable to the consumer. This applies to features that would optionaly boost the performace or add variety to the product. An example such as rechargable battorues or solar powered is would be desirable.The first star applies to needs that would be considered for ideas in a large productions. This would lean more to cut costs or or addd extra optial features that a consumer could purchase such as Being Recyclable or having mutli language support.
 
+### Compile Needs
 
+### Process of Organization
 
 
 
