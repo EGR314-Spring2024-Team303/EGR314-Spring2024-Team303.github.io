@@ -18,7 +18,7 @@ title: Appendix A
       Sean Vellequete
       </td>
       <td>
-      ----
+       svellequ@asu.edu
       </td>
       <td>
       Discord: hogintosh#2824
@@ -32,7 +32,7 @@ title: Appendix A
       Tristin Rodriguez
       </td>
       <td>
-      ----
+      tsrodri3@asu.edu
       </td>
       <td>
       Discord: Tristin#0515
@@ -46,7 +46,7 @@ title: Appendix A
       Abdirahman  Aden
       </td>
       <td>
-      Declares a block-scoped, read-only named constant.
+      aaden10@asu.edu
       </td>
       <td>
       Discord: ondeck22#5675
@@ -60,7 +60,7 @@ title: Appendix A
       Chach Chaimongkol
       </td>
       <td>
-      Declares a block-scoped, read-only named constant.
+      cchaimon@asu.edu
       </td>
       <td>
       Discord: chach#6546
