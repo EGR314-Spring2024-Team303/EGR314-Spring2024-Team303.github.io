@@ -19,7 +19,8 @@ title: Design Ideation
 The first sketch is a rough idea of a mobile weather station. This is inspired by the Dr. Robot Jaguar 4x4. This design will help the mobile weather station if it is flipped upside down the vehicle can still operate upside down and keep moving without much issue.
 #### Concept 2
 ![Concept 2 Iso](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/39510849/92a647dd-9664-4cf1-a2a5-1bbe4c46a54e)
-##### Description:
+##### Description: 
+The second sketch represents a 2-wheeler RC with a PCB socket and another component integrated into it like headlights and sensors. The maneuver will be driven with one motor and the steering came from a difference in the speed of the wheels. Wall-E inspires this design.
 #### Concept 3
 ![Concept3](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/39510849/46b365b9-fa93-49db-ab1e-e9d680756157)
 ##### Description:
