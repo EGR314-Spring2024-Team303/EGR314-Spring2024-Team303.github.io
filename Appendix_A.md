@@ -25,6 +25,12 @@ title: Appendix A
       <td>
       Declares a variable, optionally initializing it to a value.
     </td>
+      <td>
+      Declares a variable, optionally initializing it to a value.
+    </td>
+      <td>
+      Declares a variable, optionally initializing it to a value.
+    </td>
   </tr>
   ...
 </table>
