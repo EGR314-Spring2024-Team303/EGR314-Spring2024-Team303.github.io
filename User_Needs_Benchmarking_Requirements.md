@@ -120,7 +120,8 @@ After the products were reviewed the consumer needs were organized in a ranking 
 
 
 ### Compile Needs
-
+After the User needs were ranked they were compiled into diffrent catagories based on the consumer needs from the vioce of consumer needs. The first catagory is build quality which foucused on the physical qualities, attrbutes, and features that the ground moving weather station would have. Qualities such as Mobile, Waterproof, and UV-resistantance are some ideas that were generated  from that section. The second catagory is called 
+         
 ### Process of Organization
 
 
