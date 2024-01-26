@@ -8,6 +8,7 @@ title: Appendix A
     <th>var</th>
     <th>let</th>
     <th>const</th>
+    <th>const</th>
   </tr>
   <tr>
     <td>
