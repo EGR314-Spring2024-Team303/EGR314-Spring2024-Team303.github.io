@@ -5,10 +5,10 @@ title: Appendix A
 # Communication Channels 
 <table>
   <tr>
-    <th>var</th>
-    <th>let</th>
-    <th>const</th>
-    <th>const</th>
+    <th>        Symbol       </th>
+    <th>        Name         </th>
+    <th>        Email        </th>
+    <th>     First Contact   </th>
   </tr>
   <tr>
       <td>
