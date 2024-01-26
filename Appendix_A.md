@@ -57,7 +57,7 @@ title: Appendix A
       C
       </td>
       <td>
-      Declares a block-scoped, local variable, optionally initializing it to a value.
+      Chach Chaimongkol
       </td>
       <td>
       Declares a block-scoped, read-only named constant.
