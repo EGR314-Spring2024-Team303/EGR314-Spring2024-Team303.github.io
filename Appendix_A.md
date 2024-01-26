@@ -18,10 +18,10 @@ title: Appendix A
       Sean Vellequete
       </td>
       <td>
-      Discord: hogintosh#2824
+      ----
       </td>
       <td>
-      Declares a variable, optionally initializing it to a value.
+      Discord: hogintosh#2824
       </td>  
   </tr>
   <tr>
@@ -32,10 +32,10 @@ title: Appendix A
       Tristin Rodriguez
       </td>
       <td>
-      Discord: Tristin#0515
+      ----
       </td>
       <td>
-      Declares a variable, optionally initializing it to a value.
+      Discord: Tristin#0515
       </td>  
   </tr>
   <tr>
