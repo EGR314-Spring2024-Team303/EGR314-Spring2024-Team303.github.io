@@ -2,7 +2,7 @@
 title: Design Ideation
 ---
 
-### Design Ideation
+# Design Ideation
 
 ### Generated Ideas
 ![Generated Design Ideation 1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/39510849/75b2595d-4acb-4b2a-b16c-8d92846148a0)
