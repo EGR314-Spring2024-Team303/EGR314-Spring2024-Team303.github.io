@@ -5,7 +5,9 @@ Title: User Needs Benchmarking
 ## Voices of Customers (VOC) Benchmarking 
 Five existing products that were reviewed were related to the ground-moving weather station. Products that are similar to the idea of the ground-moving weather station were chosen. Also, products that highlighted certain features were chosen. Even if it's not the exact product that is being made certain qualities or features help with possible designs. Each product has three positive and negative reviews and has consumer needs based on each of the reviews. If you want more information on the consumer reviews you can refer to [Appendix B](Appendix_B.md).
 
-#### 1. Keywords: "Portable Weather Station"
+#### 1. 
+
+Keywords: "Portable Weather Station"
 
 Product: Sainlogic Professional WiFi Weather Station with Outdoor Sensor
 
@@ -25,7 +27,9 @@ Several users expressed their positive experiences with the new weather station,
 
 Several users reported issues with the product's barometric pressure sensor, citing its erratic and unreliable behavior. The sensor inaccurately detected weather conditions, such as indicating rain when the sun was out. Additionally, connectivity problems were prevalent, especially regarding the connection to cell phone WiFi. Tech support responses were consistently focused on router connections, disregarding the issue of linking the device to a cell phone. Dissatisfied with the lack of cumulative rainfall data and ongoing connectivity challenges, one user switched to a Logia weather station, praising its accuracy, cumulative rainfall display, and visually appealing screen. Another user highlighted the inoperable Wi-Fi function despite attempts with a dual-band mode Deco router. The overall consensus underscores the importance of sensor consistency, accurate weather readings, stable Wi-Fi connections, and user-friendly interfaces. Explicit needs include consistent sensor performance, accurate real-time weather readings, and reliable Wi-Fi connectivity, while latent needs emphasize the importance of an easy-to-read screen interface for comprehensive weather information. [Appendix B](Appendix_B.md).
 
-#### 2. Keywords: “Portable Weather Station”
+#### 2. 
+
+Keywords: “Portable Weather Station”
 
 Product: Ambient Weather WS-2902 WiFi Smart Weather Station
 
@@ -47,7 +51,9 @@ The Govee dehumidifier received mixed reviews from users, with one expressing di
 
 
 
-#### 3. Keywords:  “Wireless Dehumidifier” 
+#### 3. 
+
+Keywords:  “Wireless Dehumidifier” 
 
 Product: GoveeLife Smart Dehumidifier
 
@@ -71,7 +77,9 @@ Negative Reviews
 Over three frustrating years, a user encountered persistent issues with their current weather station, struggling with inaccurate temperature readings and recurring difficulties in settings adjustment, particularly during Daylight Saving Time changes. Despite attempts to calibrate, firmware updates continually disrupted their efforts, impacting crucial greenhouse temperature management and weather monitoring in a tornado-prone area. Disappointed, the user plans to replace it with the Tempest model, cautioning against the current brand due to its poor user interface and unreliability. In a brief switch to a different manufacturer, the user found accuracy in data but faced challenges with the display unit's design, making it challenging to read and experiencing LED display failures within a month. Given the substantial price, the user, a farmer valuing reliability, decided to return to their original manufacturer known for consistently providing dependable units and accurate data. Additionally, another user expressed dissatisfaction with a newly purchased weather station, citing issues with the color display's poor viewing angle and static colors, prompting plans to construct a personalized display for enhanced readability and functionality. Key needs identified include more accurate data display, improved LCD durability, better coloring in the display, and an enhanced viewing angle for optimal user experience. Refer to [Appendix B](Appendix_B.md).
 
 
-#### 4. Keywords: “Mobile Weather Device”
+#### 4. 
+
+Keywords: “Mobile Weather Device”
 
 Product: Kestrel 5700X Elite Weather Meter With Applied Ballistics
 
@@ -93,7 +101,9 @@ Customers share mixed sentiments about the device, highlighting its functionalit
 
 
 
-#### 5. Keywords: “Mobile Weather Device”
+#### 5. 
+
+Keywords: “Mobile Weather Device”
 
 Product: Protmex HT607
 
