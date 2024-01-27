@@ -116,15 +116,41 @@ The user, having compared this hygrometer to a Fieldpiece in a humid basement, e
 ## Organize, consolidate, and group needs statements
 
 ### Ranked Needs
-After the products were reviewed the consumer needs were organized in a ranking system. The ranking system was from one star to three stars. Three stars are the most important and one star is the least important. The category of three stars was needs that focus on the fundamental aspects of the product. This means that the needs listed in this category are essential to the product's functionality smoothly or functionally overall. Needs such as Accurate data, Data accessibility, and Consistent data are important to the basic functionality. The second star category result is additional features that make it marketable to the consumer. This applies to features that would optionally boost the performance or add variety to the product. An example such as rechargeable batteries or solar powered would be desirable. The first star applies to needs that would be considered for ideas in large productions. This would lean more toward cutting costs or or adding extra optional features that a consumer could purchase such as Being Recyclable or having multi-language support.  Refer to [Appendix B](Appendix_B.md).
+After the products were reviewed the consumer needs were organized in a ranking system. The ranking system was from one star to three stars. Three stars are the most important and one star is the least important. The category of three stars was needs that focus on the fundamental aspects of the product. This means that the needs listed in this category are essential to the product's functionality smoothly or functionally overall. Needs such as Accurate data, Data accessibility, and Consistent data are important to the basic functionality. The second star category result is additional features that make it marketable to the consumer. This applies to features that would optionally boost the performance or add variety to the product. An example such as rechargeable batteries or solar powered would be desirable. The first star applies to needs that would be considered for ideas in large productions. This would lean more toward cutting costs or or adding extra optional features that a consumer could purchase such as Being Recyclable or having multi-language support. For the Ranked needs table, refer to the section ranked needs in [Appendix B](Appendix_B.md).
 
 
 ### Compile Needs
-After the User needs were ranked they were compiled into different categories based on the consumer needs from the voice of consumer needs. The first category is build quality which focuses on the physical qualities, attributes, and features that the ground-moving weather station would have. Qualities such as Mobile, Waterproof, and UV-resistance are some ideas that were generated  from that section. The second category is called connectivity and data which deals with the aspect in this project where a WIFI connection is required for the product. This category includes user needs that relate to response time and organization and retrieval of data. Some examples of these user needs are Readily Deployable, Quick data, and Wide Connectivity Parameters. These needs are all connected since they all depend on a stable and strong WIFI connection. The third category is called user interface and design. This category has to do with the look of the product and its appeal to consumers. Examples such as User-friendly, Metric or Imperial units, and Streamlined Use add to the ease of use and inclusivity for people who want to use the product. The fourth category is power and  battery. This category is for the battery life of the device and the amount of data it can hold. Examples such as Outlet charging, Transmission, and data storage make it convenient to restore battery life while also holding a significant amount of storage. The fifth and final category is Mobility and Performance
+After the User needs were ranked they were compiled into different categories based on the consumer needs from the voice of consumer needs. The first category is build quality which focuses on the physical qualities, attributes, and features that the ground-moving weather station would have. Qualities such as Mobile, Waterproof, and UV-resistance are some ideas that were generated  from that section. The second category is called connectivity and data which deals with the aspect in this project where a WIFI connection is required for the product. This category includes user needs that relate to response time and organization and retrieval of data. Some examples of these user needs are Readily Deployable, Quick data, and Wide Connectivity Parameters. These needs are all connected since they all depend on a stable and strong WIFI connection. The third category is called user interface and design. This category has to do with the look of the product and its appeal to consumers. Examples such as User-friendly, Metric or Imperial units, and Streamlined Use add to the ease of use and inclusivity for people who want to use the product. The fourth category is power and  battery. This category is for the battery life of the device and the amount of data it can hold. Examples such as Outlet charging, Transmission, and data storage make it convenient to restore battery life while also holding a significant amount of storage. The fifth and final category is Mobility and Performance. This category is for the adaptability of the product to conditions external and internal as well as ease of transport since it is a mobile weather station. Examples such as All-terrain, Ease of maneuvering, and Outlet charging are user needs that pertain to the adaptability and versatility of a product. For the compile needs go to the compile needs section in [Appendix B](Appendix_B.md).
 
 
 
 
+## Product Assessment
+
+Functionality
 
 
+Check if all required systems and parts are in the product. Verify the accuracy and speed of data storage and transmission. Assess the product's response time under certain constraints. Ensure compatibility with devices for the WIFI connection.
+
+
+Usability:
+
+There will be testing to identify any usability issues and  Evaluate the performance  of the user interface. The user feedback will be used to make improvements accordingly. Also, the ease of setup will be tested and adjusted based on consumer feedback.
+
+
+Reliability:
+
+The product will be tested under different conditions. Monitor for flaws errors or vulnerabilities with the product. Assess the product's ability to handle prolonged usage. Implement fail-safes and error-handling mechanisms.
+
+
+Performance:
+
+Measure data storage and WIFI connection strength and speed. Benchmark the product against similar solutions in the market.
+Test the code and fix it for efficiency.
+
+
+Safety:
+
+
+Conducts tests to make sure the product is safe for children and follows ASU safety guidelines. Check for the products' safety in accordance with the safety standards for the market. industry-specific standards. Use the feedback to add any additional safety if needed.
 
