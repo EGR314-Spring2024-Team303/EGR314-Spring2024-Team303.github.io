@@ -190,7 +190,7 @@ Keith is a 45-year-old self-made man who enjoys traveling in his vintage car. As
 
 ## Aspects
 
-Product Design
+1. Product Design
 
 1.1   The product shall be lightweight, and compact, for ease of transport.
 
@@ -213,7 +213,7 @@ Product Design
 1.10 The product should be calibrated to ensure the components in the system operate as intended.
 
 
-Functionality
+2. Functionality
 
 2.1   The product should be able to output accurate data.
 
@@ -236,7 +236,7 @@ Functionality
 2.10 The product should be able to be an appropriate scale for the user. 
 
 
-Interactivity
+3. Interactivity
 
 3.1   The product should be able to guide users in the initial process and setup. 
 
@@ -255,7 +255,7 @@ Interactivity
 3.8   The product shall be designed to have basic security measures. 
 
 
-Hardware
+4. Hardware
 
 4.1   The product shall be incorporated on a PCB. 
 
@@ -270,7 +270,7 @@ Hardware
 4.6   The product shall be compatible with spatial audio systems where sound becomes tuned to head orientation for a directional experience while watching a movie. 
 
 
-Customization
+5. Customization
 
 5.1   The user interface on the weather interface should be user-friendly. Such as dark mode or unit scaling. 
 
@@ -281,27 +281,27 @@ Customization
 5.4   The product shall be offered in different colors for user-friendliness. 
 
 
-Regulations/Safety
+6. Regulations/Safety
 
-7.1   The product shall meet regulations based on the objective of the class. 
+6.1   The product shall meet regulations based on the objective of the class. 
 
-7.2   The product should have a proximity sensor in case of potential accidents. 
+6.2   The product should have a proximity sensor in case of potential accidents. 
 
-7.3   The product should be user-appropriate depending on the age range. 
+6.3   The product should be user-appropriate depending on the age range. 
 
-7.4   The product should be heat and cold-resistant. 
+6.4   The product should be heat and cold-resistant. 
 
-7.5   The Product should be resistant to certain chemicals that could eat away at the plastic 
+6.5   The Product should be resistant to certain chemicals that could eat away at the plastic 
 
-7.6   The product should have eclectic safety to prevent shocks or short-circuiting. 
+6.6   The product should have eclectic safety to prevent shocks or short-circuiting. 
 
-7.7   The product should be mechanically safe to prevent wounds or other bodily injuries. 
+6.7   The product should be mechanically safe to prevent wounds or other bodily injuries. 
 
-7.8   The product should have emergency protocols to prevent overheating. 
+6.8   The product should have emergency protocols to prevent overheating. 
 
-7.9   The product should be able = to get access to debug any issues that may arise 
+6.9   The product should be able = to get access to debug any issues that may arise 
 
-7.10 The product should be tested for certain thresholds to be used publicly. 
+6.10 The product should be tested for certain thresholds to be used publicly. 
 
 
 Open Questions
