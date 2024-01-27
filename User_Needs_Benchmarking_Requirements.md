@@ -294,8 +294,6 @@ Regulations/Safety
 7.10 The product should be tested for certain thresholds to be used publicly. 
 
 
-
-
 Open Questions
 
 ·   	Can we move towards a recyclable and repairable product for environmental friendliness?  
