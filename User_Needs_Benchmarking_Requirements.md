@@ -213,7 +213,6 @@ Product Design
 1.10 The product should be calibrated to ensure the components in the system operate as intended.
 
 
-
 Functionality
 
 2.1   The product should be able to output accurate data.
@@ -253,7 +252,7 @@ Interactivity
 
 3.7   The product shall offer different eyes to interact with the interface such as voice activation.
 
-3.8   The product shall be designed to have basic security measures. (P8)
+3.8   The product shall be designed to have basic security measures. 
 
 
 Hardware
