@@ -172,33 +172,46 @@ Target purchaser- This product is for people who spend time or have activities o
 
 Customer service- Prefers a durable, smooth interface as well as easy to connect and set up over wifi or another app.
 
-Retailers-  Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, and humidity.
+Retailers- Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, and humidity.
 
 ## Use Cases
 
 User Story #1: Jenna (Mobile Weather Station)
+
 Jenna is a 33-year-old executive who regularly visits outdoor locations for work. She often needs to monitor weather conditions for business planning. Using her new portable weather station, Jenna can instantly switch between a mode that focuses on detailed weather data and a mode that combines weather information with the ambient sounds around her. The device also allows her to quickly adjust settings without having to take out her phone. Whether she's in a park or at a construction site, Jenna can efficiently gather weather data while staying connected to her surroundings.
 
 User Story #2: William (Mobile Weather Station)
+
 William is a 6’7” 26-year-old professional sprinter who trains outdoors every day. Accurate weather information is crucial for planning his training sessions. With the new portable weather station, which offers a custom fit for his preferences, William can monitor real-time weather conditions during his workouts. The device is sweat-resistant, ensuring that it stays securely in place. Additionally, he can track the location of his weather station through a dedicated app, providing him with valuable data for optimizing his training routine.
 
 User Story #3: Keith (Mobile Weather Station)
+
 Keith is a 45-year-old self-made man who enjoys traveling in his vintage car. As he often embarks on road trips, having a mobile weather station is essential for planning his journeys. Keith's wife Jennifer gifted him the portable weather station for Christmas, allowing him to access accurate weather information on the go. The device's noise reduction feature helps minimize distractions from wind noise when driving with the convertible roof down. Keith can also interact with the weather station using voice commands, enabling him to focus on driving while staying informed about changing weather conditions.
 
 ## Aspects
+
 Product Design
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements:
 1.1   The product shall be lightweight, and compact, for ease of transport.
+
 1.2   The product should have a consistent and reliable power source that promotes longevity.
+
 1.3 should include multiple sensors that can gather environmental data.
+
 1.4   The product should be able to connect to a server or WIFI connection to a smartphone to transfer data smoothly.
+
 1.5   The product should have a user interface that is user-friendly such as an app or server.
+
 1.6   The product shall be able to collect and store data.
+
 1.7   The product should be durable against moderate accidents or long-term use.
+
 1.8   The product should be able to withstand moderate environmental obstacles such as heat.
+
 1.9 The product should be affordable.
+
 1.10 The product should be calibrated to ensure the components in the system operate as intended.
+
 
 Functionality
 
@@ -213,46 +226,72 @@ Functionality
 2.9   The product should be able to have some type of feedback for debugging.. (P4)
 2.10 The product should be able to be an appropriate scale for the user. (P9)
 
+
 Interactivity
 
-3.1   The product should be able to guide users in the initial process and setup. (P8)
-3.2   The product should have a camera to guide the user based on the desired location they want to go to.. (P9)
-3.3   The product should have conditions for certain thresholds containing the data it's collecting.. (P3)
-3.4   The product shall include a timer for data collection within a certain period.. (P8)
-3.5   The user interface shall be intuitive for all users after the setup. (P9)
-3.6   The product shall seamlessly connect to a server where the data is displayed.. (P10)
-3.7   The product shall offer different eyes to interact with the interface such as voice activation.. (P9)
+3.1   The product should be able to guide users in the initial process and setup. 
+
+3.2   The product should have a camera to guide the user based on the desired location they want to go to.
+
+3.3   The product should have conditions for certain thresholds containing the data it's collecting.
+
+3.4   The product shall include a timer for data collection within a certain period.
+
+3.5   The user interface shall be intuitive for all users after the setup. 
+
+3.6   The product shall seamlessly connect to a server where the data is displayed.
+
+3.7   The product shall offer different eyes to interact with the interface such as voice activation.
+
 3.8   The product shall be designed to have basic security measures. (P8)
 
 Hardware
 
-4.1   The product shall be incorporated on a PCB. (P10)
-4.2   The product will be 3d printed to meet expat measurements. (P9)
-4.3   The product should be intuitive based on the setting it is placed in. (P6)
-4.4   The product should be able to move in different terrain to gather data.. (P8)
-4.5   The product should be able to correct its position or flip over.. (P5)
-4.6   The product shall be compatible with spatial audio systems where sound becomes tuned to head orientation for a directional experience while watching a movie. (P5)
+4.1   The product shall be incorporated on a PCB. 
+
+4.2   The product will be 3d printed to meet expat measurements. 
+
+4.3   The product should be intuitive based on the setting it is placed in. 
+
+4.4   The product should be able to move in different terrains to gather data.
+
+4.5   The product should be able to correct its position or flip over. 
+
+4.6   The product shall be compatible with spatial audio systems where sound becomes tuned to head orientation for a directional experience while watching a movie. 
 
 
 Customization
 
-5.1   The user interface on the weather interface should be user-friendly. Such as dark mode or unit scaling. (P10)
-5.2   The product should run a 10-kilometer route by runners of different heights, ethnicities, and sexes. (P9)
-5.3   The product shall be offered with an additional engraving service for texts or icons onto the product. (P3)
-5.4   The product shall be offered in different colors for user-friendliness. (P5)
+5.1   The user interface on the weather interface should be user-friendly. Such as dark mode or unit scaling. 
+
+5.2   The product should run a 10-kilometer route by runners of different heights, ethnicities, and sexes. 
+
+5.3   The product shall be offered with an additional engraving service for texts or icons onto the product. 
+
+5.4   The product shall be offered in different colors for user-friendliness. 
+
 
 Regulations/Safety
 
-7.1   The product shall meet regulations based on the objective of the class. (P9)
-7.2   The product should have a proximity sensor in case of potential accidents. (P9)
-7.3   The product should be user-appropriate depending on the age range. (P8)
-7.4   The product should be heat and cold-resistant. (P9)
-7.5   The Product should be resistant to certain chemicals that could eat away at the plastic (P8)
-7.6   The product should have eclectic safety to prevent shocks or short-circuiting. (P8)
-7.7   The product should be mechanically safe to prevent wounds or other bodily injuries. (P9)
-7.8   The product should have emergency protocols to prevent overheating. (P9)
-7.9   The product should be able = to get access to debug any issues that may arise (P9)
-7.10 The product should be tested for certain thresholds to be used on the publicly. (P8)
+7.1   The product shall meet regulations based on the objective of the class. 
+
+7.2   The product should have a proximity sensor in case of potential accidents. 
+
+7.3   The product should be user-appropriate depending on the age range. 
+
+7.4   The product should be heat and cold-resistant. 
+
+7.5   The Product should be resistant to certain chemicals that could eat away at the plastic 
+
+7.6   The product should have eclectic safety to prevent shocks or short-circuiting. 
+
+7.7   The product should be mechanically safe to prevent wounds or other bodily injuries. 
+
+7.8   The product should have emergency protocols to prevent overheating. 
+
+7.9   The product should be able = to get access to debug any issues that may arise 
+
+7.10 The product should be tested for certain thresholds to be used publicly. 
 
 
 
@@ -260,7 +299,11 @@ Regulations/Safety
 Open Questions
 
 ·   	Can we move towards a recyclable and repairable product for environmental friendliness?  
+
 ·   	Can we improve on failing or self-igniting batteries?
+
 ·   	Can we improve  connectivity to wifi?
+
 ·   	Are there mechanisms for durability versatile)?
+
 ·   	What kind of observations can be made early on to avoid certain pitfalls?
