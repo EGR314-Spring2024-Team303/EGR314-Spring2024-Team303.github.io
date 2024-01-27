@@ -17,7 +17,7 @@ Description: Sainlogic Professional WiFi Weather Station with Outdoor Sensor, In
 
 Search Link:[Sainlogic-FT0300](https://www.amazon.com/sainlogic-FT0300-Sainlogic-Weather-Station/dp/B0836FVVYZ/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
-Positive Reviews
+### Positive Reviews
 
 Several users expressed their positive experiences with the new weather station, emphasizing its seamless initial connection and bright, well-organized display. One user, who replaced an Acurite unit after eight years, encountered challenges connecting to WiFi and Weather Underground but found success using a Mac desktop. Despite a basic yet functional app, the Weather Underground feature was commended for trend analysis and station history review. Another user reported a successful installation, praising the well-designed display and relevant data points. Challenges connecting to the server were promptly resolved by the support team, highlighting their prompt and helpful assistance. The consensus applauded the great weather station with an easy-to-hook-up WiFi connection, a vibrant color screen, and accurate weather conditions. However, criticism was directed at the iOS app, described as worthless and outdated. Despite the negative feedback on the app, users recommended the weather station itself, giving it a high rating. The associated consumer needs include a clear and visible display, smooth device functionality, efficient connectivity, customer support for connectivity issues, compatibility with different software, and an easy Wi-Fi connection. Explicit needs also emphasize the importance of avoiding future compatibility issues by connecting to diverse software. Refer to [Appendix B](Appendix_B.md).
 
