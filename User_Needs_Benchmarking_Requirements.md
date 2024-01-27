@@ -15,7 +15,7 @@ Vendor: Amazon
 
 Description: Sainlogic Professional WiFi Weather Station with Outdoor Sensor, Internet Wireless Weather Station Remote Monitoring System, 10.2 Inch Color Display with Rain Gauge, Temperature and UV, Wunderground
 
-Search Link:[Sainlogic-FT0300](https://www.amazon.com/sainlogic-FT0300-Sainlogic-Weather-Station/dp/B0836FVVYZ/ref=cm_cr_arp_d_product_top?ie=UTF8)
+Search Link: [Sainlogic-FT0300](https://www.amazon.com/sainlogic-FT0300-Sainlogic-Weather-Station/dp/B0836FVVYZ/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
  Positive Reviews
 
@@ -33,7 +33,7 @@ Price: $189.99
 
 Vendor: Amazon
 
-Search Link:[Ambient Weather ](https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI)
+Search Link: [Ambient Weather ](https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI)
 
 
  Positive Reviews
@@ -57,7 +57,7 @@ Vendor: Amazon
 
 Description: This weather-monitoring device features a clear, colorful LCD and a wireless sensor array that tracks wind, temperature, humidity, rainfall, UV, and solar radiation. It offers both imperial and metric units with calibration options. Enhanced Wi-Fi connectivity enables data sharing with a global weather station network. They are widely used in gardening. 	
 
-Search Link:[GoveeLife Smart](https://www.amazon.com/Govee-Life-Dehumidifier-Continuous-Dehumidifiers/dp/B0BQMQPJXP/ref=sr_1_3_sspa?crid=1F9Z4FSWH740L&keywords=wireless+dehumidifier&qid=1705371036&sprefix=wireless+dehumidifier%2Caps%2C234&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+Search Link: [GoveeLife Smart](https://www.amazon.com/Govee-Life-Dehumidifier-Continuous-Dehumidifiers/dp/B0BQMQPJXP/ref=sr_1_3_sspa?crid=1F9Z4FSWH740L&keywords=wireless+dehumidifier&qid=1705371036&sprefix=wireless+dehumidifier%2Caps%2C234&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 
 Positive Reviews
@@ -128,7 +128,6 @@ After the User needs were ranked they were compiled into different categories ba
 ## Product Assessment
 
 #### Functionality
-
 
 Check if all required systems and parts are in the product. Verify the accuracy and speed of data storage and transmission. Assess the product's response time under certain constraints. Ensure compatibility with devices for the WIFI connection.
 
