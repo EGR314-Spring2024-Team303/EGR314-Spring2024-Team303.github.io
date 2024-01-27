@@ -213,18 +213,28 @@ Product Design
 1.10 The product should be calibrated to ensure the components in the system operate as intended.
 
 
+
 Functionality
 
 2.1   The product should be able to output accurate data.
-2.2   The product should be multi-purpose. It should be able to measure different weather patterns. (P10)
-2.3   The product should be able to give real-time data that includes periodic updates. (P8)
+
+2.2   The product should be multi-purpose. It should be able to measure different weather patterns. 
+
+2.3   The product should be able to give real-time data that includes periodic updates. 
+
 2.4   The product should be able to be connected wirelessly through wifi.
+
 2.5   The product should operate efficiently on a given power supply.
-2.6   The product should be able to be controlled remotely for mobility.. (P10)
-2.7   The product should be able to connect with different operating software. (P10)
-2.8   The product should operate efficiently given the system it operates in.(P10)
-2.9   The product should be able to have some type of feedback for debugging.. (P4)
-2.10 The product should be able to be an appropriate scale for the user. (P9)
+
+2.6   The product should be able to be controlled remotely for mobility.
+
+2.7   The product should be able to connect with different operating software. 
+
+2.8   The product should operate efficiently given the system it operates in.
+
+2.9   The product should be able to have some type of feedback for debugging.
+
+2.10 The product should be able to be an appropriate scale for the user. 
 
 
 Interactivity
@@ -244,6 +254,7 @@ Interactivity
 3.7   The product shall offer different eyes to interact with the interface such as voice activation.
 
 3.8   The product shall be designed to have basic security measures. (P8)
+
 
 Hardware
 
