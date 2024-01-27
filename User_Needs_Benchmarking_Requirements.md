@@ -179,7 +179,7 @@ Retailers- Prefer products that can withstand a wide range of storage conditions
 
 ## Use Cases
 
-User Story #1: Jenna (Mobile Weather Station)
+#### User Story #1: Jenna (Mobile Weather Station)
 
 Jenna is a 33-year-old executive who regularly visits outdoor locations for work. She often needs to monitor weather conditions for business planning. Using her new portable weather station, Jenna can instantly switch between a mode that focuses on detailed weather data and a mode that combines weather information with the ambient sounds around her. The device also allows her to quickly adjust settings without having to take out her phone. Whether she's in a park or at a construction site, Jenna can efficiently gather weather data while staying connected to her surroundings.
 
