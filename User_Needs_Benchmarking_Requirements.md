@@ -127,29 +127,29 @@ After the User needs were ranked they were compiled into different categories ba
 
 ## Product Assessment
 
-Functionality
+#### Functionality
 
 
 Check if all required systems and parts are in the product. Verify the accuracy and speed of data storage and transmission. Assess the product's response time under certain constraints. Ensure compatibility with devices for the WIFI connection.
 
 
-Usability:
+#### Usability:
 
 There will be testing to identify any usability issues and  Evaluate the performance  of the user interface. The user feedback will be used to make improvements accordingly. Also, the ease of setup will be tested and adjusted based on consumer feedback.
 
 
-Reliability:
+#### Reliability:
 
 The product will be tested under different conditions. Monitor for flaws errors or vulnerabilities with the product. Assess the product's ability to handle prolonged usage. Implement fail-safes and error-handling mechanisms.
 
 
-Performance:
+#### Performance:
 
 Measure data storage and WIFI connection strength and speed. Benchmark the product against similar solutions in the market.
 Test the code and fix it for efficiency.
 
 
-Safety:
+#### Safety:
 
 
 Conducts tests to make sure the product is safe for children and follows ASU safety guidelines. Check for the products' safety in accordance with the safety standards for the market. industry-specific standards. Use the feedback to add any additional safety if needed.
@@ -159,15 +159,15 @@ Conducts tests to make sure the product is safe for children and follows ASU saf
 ## Summary
 The Mobile Weather Station, introduced in this Product Requirements Document, is envisioned to redefine weather tracking with its real-time monitoring of temperature, humidity, and wind speed. Tailored for a diverse user base, from professionals to outdoor enthusiasts, the device's objectives include serial sensing, MQTT data transmission, and motor control. Stakeholders range from outdoor workers to retailers, each with specific needs. Three use cases highlight the device's adaptability: Jenna utilizes it for business planning, William optimizes training, and Keith relies on it for road trips. The design focuses on portability, durability, and user-friendly interfaces, emphasizing lightweight, consistent power, multiple sensors, seamless data transfer, and affordability. Key functionalities encompass accurate data output, multi-purpose measurements, real-time updates, wireless connectivity, remote control, and scalability. User interaction features include guided setup, camera assistance, threshold conditions, intuitive interfaces, and customization options. Hardware specifications cover integration on a PCB, 3D printing, mobility across terrains, self-correction, and compatibility with spatial audio systems. Compliance with regulations, safety features, customization options, and thorough testing complete the holistic approach, positioning the Mobile Weather Station as a versatile and reliable tool for a wide audience.
 
-### Introduction
+## Introduction
 
 Mobile weather stations have been a new way to track the weather yourself. With features to track temperature, humidity, and wind speed. Instead of staying indoors and checking through your phone or TV, you can check the weather forecast on your mobile weather station along with other relevant information such as storm warnings or highs and lows for temperature in the future.
 
-### Objectives
+## Objectives
 
 The goal of this project is to produce systems that can respond to the environment using serial sensing and actuation in your system for a mobile weather station. The team will then output the data gathered to the internet over WiFi using the MQTT protocol. The system must sense at least 2 environmental conditions through at least 2 separate serial sensors: temperature, humidity, atmospheric pressure, and wind speed. other modalities with instructor approval. In addition, the team will need at least one motor controlled by a motor controller communicating over the I2C or SPI-based protocol.
 
-### Stakeholders
+## Stakeholders
 
 Target group- This product is for people such as farmers, landscapers, or campers.
 
@@ -183,17 +183,17 @@ Retailers- Prefer products that can withstand a wide range of storage conditions
 
 Jenna is a 33-year-old executive who regularly visits outdoor locations for work. She often needs to monitor weather conditions for business planning. Using her new portable weather station, Jenna can instantly switch between a mode that focuses on detailed weather data and a mode that combines weather information with the ambient sounds around her. The device also allows her to quickly adjust settings without having to take out her phone. Whether she's in a park or at a construction site, Jenna can efficiently gather weather data while staying connected to her surroundings.
 
-User Story #2: William (Mobile Weather Station)
+#### User Story #2: William (Mobile Weather Station)
 
 William is a 6’7” 26-year-old professional sprinter who trains outdoors every day. Accurate weather information is crucial for planning his training sessions. With the new portable weather station, which offers a custom fit for his preferences, William can monitor real-time weather conditions during his workouts. The device is sweat-resistant, ensuring that it stays securely in place. Additionally, he can track the location of his weather station through a dedicated app, providing him with valuable data for optimizing his training routine.
 
-User Story #3: Keith (Mobile Weather Station)
+#### User Story #3: Keith (Mobile Weather Station)
 
 Keith is a 45-year-old self-made man who enjoys traveling in his vintage car. As he often embarks on road trips, having a mobile weather station is essential for planning his journeys. Keith's wife Jennifer gifted him the portable weather station for Christmas, allowing him to access accurate weather information on the go. The device's noise reduction feature helps minimize distractions from wind noise when driving with the convertible roof down. Keith can also interact with the weather station using voice commands, enabling him to focus on driving while staying informed about changing weather conditions.
 
 ## Aspects
 
-1. Product Design
+#### 1. Product Design
 
 1.1   The product shall be lightweight, and compact, for ease of transport.
 
@@ -216,7 +216,7 @@ Keith is a 45-year-old self-made man who enjoys traveling in his vintage car. As
 1.10 The product should be calibrated to ensure the components in the system operate as intended.
 
 
-2. Functionality
+#### 2. Functionality
 
 2.1   The product should be able to output accurate data.
 
@@ -239,7 +239,7 @@ Keith is a 45-year-old self-made man who enjoys traveling in his vintage car. As
 2.10 The product should be able to be an appropriate scale for the user. 
 
 
-3. Interactivity
+#### 3. Interactivity
 
 3.1   The product should be able to guide users in the initial process and setup. 
 
@@ -258,7 +258,7 @@ Keith is a 45-year-old self-made man who enjoys traveling in his vintage car. As
 3.8   The product shall be designed to have basic security measures. 
 
 
-4. Hardware
+#### 4. Hardware
 
 4.1   The product shall be incorporated on a PCB. 
 
@@ -273,7 +273,7 @@ Keith is a 45-year-old self-made man who enjoys traveling in his vintage car. As
 4.6   The product shall be compatible with spatial audio systems where sound becomes tuned to head orientation for a directional experience while watching a movie. 
 
 
-5. Customization
+#### 5. Customization
 
 5.1   The user interface on the weather interface should be user-friendly. Such as dark mode or unit scaling. 
 
@@ -284,7 +284,7 @@ Keith is a 45-year-old self-made man who enjoys traveling in his vintage car. As
 5.4   The product shall be offered in different colors for user-friendliness. 
 
 
-6. Regulations/Safety
+#### 6. Regulations/Safety
 
 6.1   The product shall meet regulations based on the objective of the class. 
 
@@ -307,7 +307,7 @@ Keith is a 45-year-old self-made man who enjoys traveling in his vintage car. As
 6.10 The product should be tested for certain thresholds to be used publicly. 
 
 
-Open Questions
+#### Open Questions
 
 ·   	Can we move towards a recyclable and repairable product for environmental friendliness?  
 
