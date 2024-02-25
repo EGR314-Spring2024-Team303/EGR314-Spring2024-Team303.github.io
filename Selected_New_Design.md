@@ -1,4 +1,4 @@
 ---
-Title: Team Organization
+Title: Selected New Design
 ---
 # Selected New Design
