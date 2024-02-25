@@ -25,6 +25,12 @@ title: Home
 
 [Component_Selection](/Component_Selection.md)
 
+[Microcontroller Selection](/Microcontroller_Selection.md)
+
+[Hardware Proposal](/Hardware_proposal.md)
+
+[Software_Proposal](/Software_Proposal.md)
+
 [Presentation 1](/Presentation1.md)
 
 ## Appendix
