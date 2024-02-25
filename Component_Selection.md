@@ -12,3 +12,6 @@ title : Component Selection
 
 ## Motor 
 ![Motor](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/473f5605-0852-48d4-82a9-e9fafdbad7e5)
+
+## Battery
+![Battery](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/df8f2404-8f6a-479f-bbb0-057acae989e3)
