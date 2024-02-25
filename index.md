@@ -21,6 +21,8 @@ title: Home
 
 [Selected Design](/Selected_Design.md)
 
+[Block Diagram of the product](/Block_Diagram_of_the_product.md)
+
 [Component_Selection](/Component_Selection.md)
 
 [Presentation 1](/Presentation1.md)
