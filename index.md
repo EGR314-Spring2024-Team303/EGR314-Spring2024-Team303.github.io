@@ -19,7 +19,7 @@ title: Home
 
 [Design Ideation](/Design_Ideation.md)
 
-[Selected New Design](/Selected New Design.md)
+[Selected New Design](/Selected New Design .md)
 
 [Presentation 1](/Presentation1.md)
 
