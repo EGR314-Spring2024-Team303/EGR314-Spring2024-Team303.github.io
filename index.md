@@ -13,7 +13,7 @@ title: Home
 * Tristin Rodriguez
 * Sean Vellequete
 
-[Team organization](/Team_organization)
+[Team organization](/Team_organization.md)
 
 [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md)
 
