@@ -1,18 +1,23 @@
 ---
-title : Component Selection 
+title: Component Selection 
 ---
 # Component Selection 
 
 ## Motor Driver 
-<img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/fba1cdf8-d2b6-4e65-91b8-7c607133c769" width = "300" height = "300">
+<img src="(https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/058014ac-b02d-4cbe-af1f-cf782f4bfb76" width = "300" height = "300">
+
+IFX9201SGAUMA1-6A H bridge with SPI Motor Driver
+
+Our team picked IFX9201SG. This particular surface mount H-bridge model has an SPI - Interface which our team had already experienced in one of the ICC. 
+So, our team is confident to work around this component. Moreover, the range of operating voltage of the component is 3.3v - 5.0 v which is our required project constraint.
 
 ## Temperature Sensors 
 <img src ="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/2faca3f8-fac7-4f8a-b503-419a9ad86b02" width = "300" height = "300">
 
 TC74A4-3.3VCTTR Surface Mount Temperature Sensor
 
-Our team chose The TC74A4-3.3VCTTR because of the significant price difference and the easy interface with the microcontroller. Since the components are I2C, it is easier to implement with a wide range of microcontrollers. 
-It's tiny in size so it won't interfere with other components on a PCB. Moreover, it's already provided in class so it's cost-effective.  
+Our team chose The TC74.  Since the components are I2C, it is easier to implement with a wide range of microcontrollers. It's tiny in size so it won't interfere with other components on a PCB. 
+Moreover, it's already provided in class so it's cost-effective, and our team would be more familiar with working around it. 
 
 # Barometric Sensors
 <img src ="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/f21d38a9-6406-4f76-886d-1444f8d43790" width = "300" height = "300">
