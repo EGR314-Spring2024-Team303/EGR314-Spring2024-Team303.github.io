@@ -4,7 +4,7 @@ title: Component Selection
 # Component Selection 
 
 ## Motor Driver 
-<img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/6b03c68c-146e-447b-af45-a478d491e900" width = "300" height = "300">
+<img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/d0dcb053-43d2-4750-9ad7-bacca8a4e1bf" width = "300" height = "300">
 
 IFX9201SGAUMA1-6A H bridge with SPI Motor Driver
 
