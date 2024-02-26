@@ -28,8 +28,11 @@ Moreover, it's already provided in class so it's cost-effective, and our team wo
   It's easy to solder and operate with I2C Interface. 
 
 ## Motor 
-<img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/473f5605-0852-48d4-82a9-e9fafdbad7e5" width ="300" height ="300">
+<img src="" width ="300" height ="300">
 
+  *  
+    Of all the models, we found this model is a good fit for our project. this motor model provides a good amount of RPM and it also operates from 
+  
 ## Battery
 <img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/df8f2404-8f6a-479f-bbb0-057acae989e3" width ="300" height="300">
 
