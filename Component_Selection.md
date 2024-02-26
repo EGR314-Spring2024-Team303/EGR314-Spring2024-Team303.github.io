@@ -30,4 +30,3 @@ SM9543
 ## Battery
 <img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/df8f2404-8f6a-479f-bbb0-057acae989e3" width ="300" height="300">
 
-![microcontroller selection](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/53326fe1-0a5a-4e4c-a88e-6c6d1132650d)
