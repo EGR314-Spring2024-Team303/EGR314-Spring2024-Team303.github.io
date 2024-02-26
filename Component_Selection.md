@@ -14,7 +14,7 @@ title : Component Selection
 <img src ="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/f21d38a9-6406-4f76-886d-1444f8d43790" width = "300" height = "300">
 
 ## Motor 
-< img src= "https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/473f5605-0852-48d4-82a9-e9fafdbad7e5" width ="300" height ="300">
+<img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/473f5605-0852-48d4-82a9-e9fafdbad7e5" width ="300" height ="300">
 
 ## Battery
 ![Battery](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/df8f2404-8f6a-479f-bbb0-057acae989e3)
