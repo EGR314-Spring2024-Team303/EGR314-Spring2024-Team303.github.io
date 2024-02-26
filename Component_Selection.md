@@ -8,21 +8,24 @@ title: Component Selection
 
 * IFX9201SGAUMA1-6A H bridge with SPI Motor Driver
 
-  Our team picked IFX9201SG. This particular surface mount H-bridge model has an SPI - Interface which our team had already experienced in one of the ICC. 
-So, our team is confident to work around this component. Moreover, the range of operating voltage of the component is 3.3v - 5.0 v which is our required project constraint.
+  Our team picked IFX9201SG. This particular surface mount H-bridge model has an SPI interface which our team had already experienced in one of the ICC. 
+So, our team is confident to work around this component. Moreover, the range of operating voltage of the component is 3.3V - 5.0V. 
 
 ## Temperature Sensors 
 <img src ="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/2faca3f8-fac7-4f8a-b503-419a9ad86b02" width = "300" height = "300">
 
 * TC74A4-3.3VCTTR Surface Mount Temperature Sensor
 
-  Our team chose The TC74.  Since the components are I2C, it is easier to implement with a wide range of microcontrollers. It's tiny in size so it won't interfere with other components on a PCB. 
+  Our team chose The TC74. Since the components are I2C, it is easier to implement with a wide range of microcontrollers. It's tiny in size so it won't interfere with other components on a PCB. 
 Moreover, it's already provided in class so it's cost-effective, and our team would be more familiar with working around it. 
 
 # Barometric Sensors
 <img src ="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/f21d38a9-6406-4f76-886d-1444f8d43790" width = "300" height = "300">
 
-SM9543 
+ * SM9543-005M-D-C-3-S TE Connectivity / SMI Mouser Surface mount Barometric sensor
+ 
+  Our team chose SM9543. This model of the barometric pressure sensor compared to other models is bulkier than other models but at the same time compact enough to fit in a small project. 
+  It's easy to solder and operate with I2C Interface. 
 
 ## Motor 
 <img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/473f5605-0852-48d4-82a9-e9fafdbad7e5" width ="300" height ="300">
