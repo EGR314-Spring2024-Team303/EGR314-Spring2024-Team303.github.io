@@ -5,7 +5,7 @@ title : Component Selection
 
 ## Motor Driver 
 
-<img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/fba1cdf8-d2b6-4e65-91b8-7c607133c769" width = "100" height = "100">
+<img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/fba1cdf8-d2b6-4e65-91b8-7c607133c769" width = "300" height = "300">
 
 ## Temperature Sensors 
 <img src ="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/2faca3f8-fac7-4f8a-b503-419a9ad86b02" width = "300" height = "300">
