@@ -29,14 +29,16 @@ title: Component Selection
 
 ## Motor 
 <img src="" width ="300" height ="300">
-
-  *  
+  
+   * 
+    
     Of all the models, we found this model is a good fit for our project. this motor model provides a good amount of RPM and it also operates from 
   
 ## Battery
 <img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/df8f2404-8f6a-479f-bbb0-057acae989e3" width ="300" height="300">
 
 * ICR18650 2200mAh 3.7V
+  
   This battery has a higher discharge rate. On top of that, the energy density will make sure that the motors and the PCB can run for a longer period.
   It also makes it easier with the outer shell being more protected this is very important as we do not want our batteries becoming puffy and exploding when they are potentially     
   penetrated.
