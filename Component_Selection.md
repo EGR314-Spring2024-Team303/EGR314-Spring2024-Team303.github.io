@@ -8,7 +8,7 @@ title: Component Selection
 
 * IFX9201SGAUMA1-6A H bridge with SPI Motor Driver
 
-Our team picked IFX9201SG. This particular surface mount H-bridge model has an SPI - Interface which our team had already experienced in one of the ICC. 
+  Our team picked IFX9201SG. This particular surface mount H-bridge model has an SPI - Interface which our team had already experienced in one of the ICC. 
 So, our team is confident to work around this component. Moreover, the range of operating voltage of the component is 3.3v - 5.0 v which is our required project constraint.
 
 ## Temperature Sensors 
@@ -16,7 +16,7 @@ So, our team is confident to work around this component. Moreover, the range of 
 
 * TC74A4-3.3VCTTR Surface Mount Temperature Sensor
 
-Our team chose The TC74.  Since the components are I2C, it is easier to implement with a wide range of microcontrollers. It's tiny in size so it won't interfere with other components on a PCB. 
+  Our team chose The TC74.  Since the components are I2C, it is easier to implement with a wide range of microcontrollers. It's tiny in size so it won't interfere with other components on a PCB. 
 Moreover, it's already provided in class so it's cost-effective, and our team would be more familiar with working around it. 
 
 # Barometric Sensors
