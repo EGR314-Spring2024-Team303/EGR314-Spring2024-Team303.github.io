@@ -44,5 +44,8 @@ This battery has a higher discharge rate. On top of that, the energy density wil
 It also makes it easier with the outer shell being more protected this is very important as we do not want our batteries becoming puffy and exploding when they are potentially     
 penetrated.
 
+# Power Budget
+
+
  
 
