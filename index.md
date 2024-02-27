@@ -20,9 +20,9 @@ The device is designed to be user-friendly, easy to use, and durable.
 
 [Team organization](/Team_organization.md) | [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md) | [Design Ideation](/Design_Ideation.md)
 
-[Selected Design](/Selected_Design.md) | [Block Diagram of the product](/Block_Diagram_of_the_product.md) | [Component_Selection](/Component_Selection.md)
+[Selected Design](/Selected_Design.md) | [Block Diagram of the product](/Block_Diagram_of_the_product.md) | [Component Selection](/Component_Selection.md)
 
-[Microcontroller Selection](/Microcontroller_Selection.md) | [Hardware Proposal](/Hardware_Proposal.md) | [Software_Proposal](/Software_Proposal.md)
+[Microcontroller Selection](/Microcontroller_Selection.md) | [Hardware Proposal](/Hardware_Proposal.md) | [Software Proposal](/Software_Proposal.md)
 
 
 # Appendix
