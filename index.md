@@ -21,7 +21,7 @@ title: Home
 
 [Selected Design](/Selected_Design.md) | [Block Diagram of the product](/Block_Diagram_of_the_product.md) | [Component_Selection](/Component_Selection.md)
 
-[Microcontroller Selection](/Microcontroller_Selection.md) | [Hardware Proposal](/Hardware_proposal.md) | [Software_Proposal](/Software_Proposal.md)
+[Microcontroller Selection](/Microcontroller_Selection.md) | [Hardware Proposal](/Hardware_Proposal.md) | [Software_Proposal](/Software_Proposal.md)
 
 
 
