@@ -20,7 +20,9 @@ Links to external resources: [Option 1](https://www.youtube.com/watch?v=s3wEH_Y6
 #### Links to the IC packages/footprint: 
 Option 1: [VQFN](https://www.microchip.com/en-us/support/package-drawings), [SOIC](https://www.microchip.com/en-us/support/package-drawings)
 
-Option 2:
+Option 2: [VQFN](https://www.microchip.com/en-us/support/package-drawings), [TQFP](https://www.microchip.com/en-us/support/package-drawings), [PDIP](https://www.microchip.com/en-us/support/package-drawings)
+
+Option 3:[TQFP](https://www.microchip.com/en-us/support/package-drawings), [QFN](https://www.microchip.com/en-us/support/package-drawings), [QFN](https://www.microchip.com/en-us/support/package-drawings), [PDIF](https://www.microchip.com/en-us/support/package-drawings)
 
 ![Mircro_Table_4](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/75cf1fed-e75d-4e0d-b7d6-5bddd85fe176)
 
