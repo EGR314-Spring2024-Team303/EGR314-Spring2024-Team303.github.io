@@ -46,7 +46,9 @@ penetrated.
 
 # Power Budget
 
-According to our Power Budget in our [Power Budget Spreadsheet](/Appendix_C.md)
+According to our [Power Budget Spreadsheet](/Appendix_C.md) our team on board battery will last roughly 3 hours in the most power-hungy conditions. This is acceptable as we want our weather station to collect data for extended periods. In future designs, our device will be able to drive for hours at a time and record weather data for days on end with power efficacy gained by choosing different components.
+
+Our most pressing matters for the power consumption would be the temperature sensor and the Microcontrollers. All of these components draw hundreds of milliamps of current as other components draw tens of milliamps. It should be noted that the Wifi module will always be a power-hungry device as it needs to transmit data in the gigahertz range and run the web server.  
 
  
 
