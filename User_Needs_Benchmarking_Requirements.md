@@ -1,6 +1,10 @@
 ---
 Title: User Needs Benchmarking
 ---
+[Home](/index.md) |[Team organization](/Team_organization.md) | [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md) | [Design Ideation](/Design_Ideation.md) | [Selected Design](/Selected_Design.md) 
+[Block Diagram of the product](/Block_Diagram_of_the_product.md) |[Component Selection](/Component_Selection.md) |[Microcontroller Selection](/Microcontroller_Selection.md) | [Hardware Proposal](/Hardware_Proposal.md) | [Software Proposal](/Software_Proposal.md)
+
+
 # User Needs, Benchmarking, and Requirements 
 ## Voices of Customers (VOC) Benchmarking 
 Five existing products that were reviewed were related to the ground-moving weather station. Products that are similar to the idea of the ground-moving weather station were chosen. Also, products that highlighted certain features were chosen. Even if it's not the exact product that is being made certain qualities or features help with possible designs. Each product has three positive and negative reviews and has consumer needs based on each of the reviews. If you want more information on the consumer reviews you can refer to [Appendix B](Appendix_B.md).
