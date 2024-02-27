@@ -46,7 +46,7 @@ penetrated.
 
 # Power Budget
 
-According to our Power Budget in our 
+According to our Power Budget in our [Power Budget Spreadsheet](/Appendix_C.md)
 
  
 
