@@ -9,7 +9,7 @@ As an aspiring engineering student, we are dedicated to developing proficient em
 Recognizing the significance of collaboration, we excel in sharing ideas, resolving differences, and ensuring flawless, safe, and user-friendly development of our products. Our empathetic and collaborative approach ensures effective teamwork, allowing us to achieve our shared objectives with professionalism and efficiency collectively.
 
 ## Mission Statement 
-Our mission is to create a product that can detect temperature and humidity while being mobile. Through the class and ASU guidelines, we will create a product that will be innovative, adaptive, and durable to ensure the quality of our product will meet customer needs if sold on the market.
+Empowering individuals with real-time weather insights anytime, anywhere, our mobile weather station delivers accurate forecasts and crucial data to enhance safety, decision-making, and enjoyment of the outdoors.
 
 ## Communication Channels
 Our team communication channels mainly consist of ASU email and Discord. Our contact information as well as our roles and meeting schedule can be found in [Appendix A](Appendix_A.md)
