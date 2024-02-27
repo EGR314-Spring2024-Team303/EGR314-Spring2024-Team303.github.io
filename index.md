@@ -13,9 +13,8 @@ title: Home
 * Tristin Rodriguez
 * Sean Vellequete
 
----
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-VpR88BmgA?si=8asg205ILbVlzzUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
----
 
 [Team organization](/Team_organization.md) | [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md) | [Design Ideation](/Design_Ideation.md)
 
