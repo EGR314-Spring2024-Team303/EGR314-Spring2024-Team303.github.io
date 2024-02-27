@@ -18,6 +18,9 @@ Links to external resources: [Option 1](https://www.youtube.com/watch?v=s3wEH_Y6
 ![Mircro_Table_3 1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/9f4b5c47-345c-4608-b7f7-d89ff90d0759)
 
 #### Links to the IC packages/footprint: 
+Option 1: [VQFN](https://www.microchip.com/en-us/support/package-drawings), [SOIC](https://www.microchip.com/en-us/support/package-drawings)
+
+Option 2:
 
 ![Mircro_Table_4](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/75cf1fed-e75d-4e0d-b7d6-5bddd85fe176)
 
