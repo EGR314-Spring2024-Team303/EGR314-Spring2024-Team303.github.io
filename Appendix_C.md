@@ -3,4 +3,4 @@ title: Appendix C
 ---
 
 # Power Budget Table 
-<object data = "Power Budget.xlsx - Power Budget.pdf" width = "1000" height = "1000" type='application/pdf'>
+![image](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/61121e34-557d-4567-af77-2cd9227b54cf)
