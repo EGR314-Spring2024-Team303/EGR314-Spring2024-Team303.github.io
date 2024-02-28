@@ -9,7 +9,6 @@ title: Appendix C
 ![image](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/2634c448-7786-474f-859c-bc6810f6c0b5)
 
 ## Microcontroller selection table
-# Microcontroller Selection
 ![Mircro_Table_1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/d2486f8a-b1e3-49db-9006-6408f4a33a87)
 ![Mircro_Table_2](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/2f8d2b4f-e978-43b0-9a88-7020ed881d83)
 Links to the products : [Option 1](https://www.microchip.com/en-us/product/pic18f27q10), [Option2](https://www.microchip.com/en-us/product/PIC18F47Q84#document-table), [Option 3](https://www.microchip.com/en-us/product/pic18f47q10)  
