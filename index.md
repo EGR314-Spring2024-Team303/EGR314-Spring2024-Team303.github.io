@@ -5,14 +5,13 @@ title: Home
 ## Arizona State University | Embedded Systems Design Project II (Spring 2024) | Dr.Kevin Nichols
 # Ground Moving Weather Station (G.M.W.S.-01) 
 
-# Team 303 
+# Team 303 - TWINB'SHOPPINOFFAJETSKIII
 ## Team members 
 * Abdirahman Aden
 * Chach Chaimongkol
 * Tristin Rodriguez
 * Sean Vellequete
 
-# WE UP NOW ! 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-VpR88BmgA?si=8asg205ILbVlzzUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Introduction 
