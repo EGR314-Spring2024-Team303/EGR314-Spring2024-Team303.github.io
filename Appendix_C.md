@@ -10,4 +10,3 @@ title: Appendix C
 
 ## Microcontroller selection 
 
-[chupapi](index.md) | 
