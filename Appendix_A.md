@@ -75,7 +75,6 @@ title: Appendix A
   </tr>
   ...
 </table>
-</p>
 
 <p align="center">
   <img width="500" height="60" src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/f56587fe-2944-4b9b-94a2-48fcaeb8c9c3">
