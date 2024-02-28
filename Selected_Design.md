@@ -8,5 +8,5 @@ title: Selected Design
 
 
 <p align="center">
-  <img width="900" height="800" src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/8ce00c82-ee78-4f97-b25d-86dca3bd5118">
+  <img width="900" height="600" src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/8ce00c82-ee78-4f97-b25d-86dca3bd5118">
 </p>
