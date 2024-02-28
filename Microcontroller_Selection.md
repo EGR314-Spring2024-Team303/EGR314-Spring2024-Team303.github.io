@@ -10,5 +10,5 @@ Title: Microcontroller Selection
   <img width="460" height="300" src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/94d57fad-7db7-48d8-bee1-767435524f0d">
 </p>
 
-Our team chose a microcontroller model PIC18F27Q10. This microcontroller model has a total of 25 GPIO 
+Our team chose a microcontroller model PIC18F27Q10. This microcontroller model has a total of 25 General Purposes Input/Output pins with 2 I2C pin and 
 
