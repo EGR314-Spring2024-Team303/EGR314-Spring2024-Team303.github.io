@@ -8,5 +8,32 @@ title: Appendix C
 ![image](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/61121e34-557d-4567-af77-2cd9227b54cf)
 ![image](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/2634c448-7786-474f-859c-bc6810f6c0b5)
 
-## Microcontroller selection 
+## Microcontroller selection table
+# Microcontroller Selection
+![Mircro_Table_1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/d2486f8a-b1e3-49db-9006-6408f4a33a87)
+![Mircro_Table_2](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/2f8d2b4f-e978-43b0-9a88-7020ed881d83)
+Links to the products : [Option 1](https://www.microchip.com/en-us/product/pic18f27q10), [Option2](https://www.microchip.com/en-us/product/PIC18F47Q84#document-table), [Option 3](https://www.microchip.com/en-us/product/pic18f47q10)  
+
+links to the Datasheet: [Option 1](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf), [Option 2](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47-57Q84-Microcontroller-Data-Sheet-DS40002213.pdf), [Option 3](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf)
+
+Links to the application notes: [Option 1](https://www.microchip.com/en-us/application-notes/tb3237), [Option 2](https://www.microchip.com/en-us/application-notes/an730), [Option 3](https://www.microchip.com/en-us/application-notes/tb3237)
+
+Links to example code: [Option 1](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf), [Option 2](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47-57Q84-Microcontroller-Data-Sheet-DS40002213.pdf), [Option 3](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf)
+
+Links to external resources: [Option 1](https://www.youtube.com/watch?v=s3wEH_Y6Bh8),[Option 2](https://www.youtube.com/watch?v=QQd9W5SnXFM), [Option 3](https://www.youtube.com/watch?v=oQk_ttEu6YY)
+
+![Mircro_Table_3](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/39291b41-a430-4e41-be03-39144cd43ced)
+![Mircro_Table_3 1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/9f4b5c47-345c-4608-b7f7-d89ff90d0759)
+
+#### Links to the IC packages/footprint: 
+Option 1: [VQFN](https://www.microchip.com/en-us/support/package-drawings), [SOIC](https://www.microchip.com/en-us/support/package-drawings)
+
+Option 2: [VQFN](https://www.microchip.com/en-us/support/package-drawings), [TQFP](https://www.microchip.com/en-us/support/package-drawings), [PDIP](https://www.microchip.com/en-us/support/package-drawings)
+
+Option 3:[TQFP](https://www.microchip.com/en-us/support/package-drawings), [QFN](https://www.microchip.com/en-us/support/package-drawings), [QFN](https://www.microchip.com/en-us/support/package-drawings), [PDIF](https://www.microchip.com/en-us/support/package-drawings)
+
+Links to programming hardware: [Option 1](https://www.microchip.com/en-us/product/PIC18F27Q10), [Option 2](https://www.microchip.com/en-us/product/PIC18F47Q84#document-table), [Option 3](https://www.microchip.com/en-us/product/pic18f47q10)
+
+![Mircro_Table_4](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/75cf1fed-e75d-4e0d-b7d6-5bddd85fe176)
+
 
