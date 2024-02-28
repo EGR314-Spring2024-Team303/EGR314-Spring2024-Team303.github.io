@@ -75,7 +75,7 @@ title: Appendix A
 </table>
 
 <p align="center">
-  <img width="600" height="50" src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/f56587fe-2944-4b9b-94a2-48fcaeb8c9c3">
+  <img width="600" height="60" src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/f56587fe-2944-4b9b-94a2-48fcaeb8c9c3">
 </p>
 
 
