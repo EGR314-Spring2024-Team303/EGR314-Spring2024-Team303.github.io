@@ -53,5 +53,6 @@ According to our [Power Budget Spreadsheet](/Appendix_C.md) our team on board ba
 
 Our most pressing matters for the power consumption would be the temperature sensor and the Microcontrollers. All of these components draw hundreds of milliamps of current as other components draw tens of milliamps. It should be noted that the Wifi module will always be a power-hungry device as it needs to transmit data in the gigahertz range and run the web server.  
 
+[Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
  
 
