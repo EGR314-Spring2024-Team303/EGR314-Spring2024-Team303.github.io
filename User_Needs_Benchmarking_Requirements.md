@@ -203,3 +203,5 @@ Keith is a 45-year-old self-made man who enjoys traveling in his vintage car. As
 ·   	Are there mechanisms for durability versatile)?
 
 ·   	What kind of observations can be made early on to avoid certain pitfalls?
+
+[Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
