@@ -31,7 +31,7 @@ Our team chose SM9543. This model of the barometric pressure sensor compared to 
 It's easy to solder and operate with I2C Interface. 
 
 ## Motor 
-<img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/3d5246d1-1888-48c5-8ac1-d3f23bc936a3" width ="300" height ="300">
+<img src="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/3d5246d1-1888-48c5-8ac1-d3f23bc936a3" width ="400" height ="300">
   
    * DC3V-12V DC Geared Motor
 
