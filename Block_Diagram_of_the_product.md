@@ -7,4 +7,4 @@ Title: Block Diagram of the product
 # Block Diagram of the product 
 ![Block Diagram-314 (1)](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/bbce8f6a-56d2-4d08-9275-a05007e62109)
 
-
+[Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
