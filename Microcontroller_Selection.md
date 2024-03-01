@@ -11,6 +11,6 @@ Title: Microcontroller Selection
 </p>
 
   Our team chose a microcontroller model PIC18F27Q10. This microcontroller model has a total of 25 General Purposes Input/Output pins with 2 I2C pins 2 SPI pins, and 2 PWM pins. Moreover, the operating voltage ranges from 1.8V to 5.5V
-  which respond to our operating range perfectly. This microcontroller also has 3000 bytes of RAM which can hold a great amount lines of code. Not only, does it come in a DIP package but it is also a SOIC package. More information   
-  about our choice-making can be referred to in [Appendix C](Appendix_C.md)
+  which respond to our operating range perfectly. This microcontroller also has 3000 bytes of RAM which can hold a great amount lines of code. Not only, does it come in a DIP package but it is also a SOIC package.
+  More information about our choice-making can be referred to in [Appendix C](Appendix_C.md)
 
