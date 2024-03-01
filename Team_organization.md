@@ -20,5 +20,4 @@ Our team communication channels mainly consist of ASU email and Discord. Our con
 ## Communication Procedures
 The team will primarily use Discord for ongoing discussions and employ in-person meetings, Snapchat Group messages, and weekly meetings for synchronous communication. Urgent matters will be addressed through phone calls. Responsibility for relaying announcements from classes falls on attendees, who will use Snapchat for those unable to attend. Team members will maintain direct contact with the professor, and the team recorder will serve as the main liaison for effective communication. This streamlined strategy aims to enhance collaboration and efficiency throughout the project.
 
-# Appendix
 [Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
