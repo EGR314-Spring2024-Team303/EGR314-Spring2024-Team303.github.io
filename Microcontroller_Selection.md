@@ -14,3 +14,4 @@ Title: Microcontroller Selection
   which respond to our operating range perfectly. This microcontroller also has 3000 bytes of RAM which can hold a great amount lines of code. Not only, does it come in a DIP package but it is also a SOIC package.
   More information about our choice-making can be referred to in [Appendix C](Appendix_C.md)
 
+[Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
