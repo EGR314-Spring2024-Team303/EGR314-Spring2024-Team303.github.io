@@ -26,7 +26,8 @@ Links to example code: [Option 1](https://ww1.microchip.com/downloads/aemDocumen
 
 Links to external resources: [Option 1](https://www.youtube.com/watch?v=s3wEH_Y6Bh8),[Option 2](https://www.youtube.com/watch?v=QQd9W5SnXFM), [Option 3](https://www.youtube.com/watch?v=oQk_ttEu6YY)
 
-![Mircro_Table_3](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/39291b41-a430-4e41-be03-39144cd43ced)
+![Mircro_Table_3](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/deacbfbc-67c9-42a4-8e46-ef5ac336d7c5)
+
 ![Mircro_Table_3 1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/9f4b5c47-345c-4608-b7f7-d89ff90d0759)
 
 #### Links to the IC packages/footprint: 
