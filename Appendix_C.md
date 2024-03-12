@@ -9,8 +9,8 @@ title: Appendix C
 # Appendix C 
 
 ## Power Budget table 
-![image](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/61121e34-557d-4567-af77-2cd9227b54cf)
-![image](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/2634c448-7786-474f-859c-bc6810f6c0b5)
+![Power Budget xlsx - Power Budget (1)-1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/39510849/151f7509-884e-433c-b39c-50bb3019fb5b)
+![Power Budget xlsx - Power Budget (1)-2](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/39510849/712169b4-baf9-4f8a-b3aa-7a5f5f391a90)
 
 ## Microcontroller selection table
 ![Mircro_Table_1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/ad2e65bf-1caa-4f85-b56f-96f2fe3f191b)
