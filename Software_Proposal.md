@@ -7,6 +7,6 @@ title: Software Proposal
 # Software proposal
 ## Software Diagrams
 
-![Software Proposal](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/d308f5b4-94b0-48d6-b4dd-904d97ecbf1c)
+![Software Proposal]()
 
 [Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
