@@ -6,7 +6,7 @@ Title: Hardware Proposal
 
 # Hardware Proposal 
 
-![Hardware proposal](/)
+![Hardware proposal](/Team303-Schematic-Update.pdf)
 
 [Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
 
