@@ -1,11 +1,11 @@
 ---
-title: Appendix A
+title: Appendix: Team Organization
 ---
 
 [Home](/index.md) |[Team organization](/Team_organization.md) | [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md) | [Design Ideation](/Design_Ideation.md) | [Selected Design](/Selected_Design.md)
 [Block Diagram of the product](/Block_Diagram_of_the_product.md) | [Component Selection](/Component_Selection.md) | [Microcontroller Selection](/Microcontroller_Selection.md) | [Hardware Proposal](/Hardware_Proposal.md) |[Software Proposal](/Software_Proposal.md)
 
-# Appendix A
+# Appendix: Team Organization
 
 ## Communication Channels 
 
@@ -77,9 +77,9 @@ title: Appendix A
 
 ## Meeting Schedule
 
-![table 2 - Appendix A](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/e7e16515-96d2-454e-be08-1c6b7beb69a5)
+![table 2 - Team Organization](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/e7e16515-96d2-454e-be08-1c6b7beb69a5)
 
 ## Roles & Responsibility
 
-![table 3 - Appendix A ](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/e9e94139-7d8a-432e-abe4-b863968a4f1c)
+![table 3 - Team Organization ](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/e9e94139-7d8a-432e-abe4-b863968a4f1c)
 
