@@ -5,9 +5,11 @@ Title: Hardware Proposal
 [Block Diagram of the product](/Block_Diagram_of_the_product.md) |[Component Selection](/Component_Selection.md) |[Microcontroller Selection](/Microcontroller_Selection.md) | [Hardware Proposal](/Hardware_Proposal.md) | [Software Proposal](/Software_Proposal.md)
 
 # Hardware Proposal 
-![HardwareProposalLandscape]()
+
+[Team303-Schematic-Update.pdf](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/files/14568160/Team303-Schematic-Update.pdf)
 
 [Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
+
 
 
 
