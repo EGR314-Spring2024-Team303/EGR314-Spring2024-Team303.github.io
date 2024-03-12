@@ -1,5 +1,5 @@
 ---
-title Appendix: Team Organization
+title: Appendix A Team Organization
 ---
 
 [Home](/index.md) |[Team organization](/Team_organization.md) | [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md) | [Design Ideation](/Design_Ideation.md) | [Selected Design](/Selected_Design.md)
