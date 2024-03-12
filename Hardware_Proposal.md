@@ -6,7 +6,7 @@ Title: Hardware Proposal
 
 # Hardware Proposal 
 
-
+![Hardware proposal](/)
 
 [Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
 
