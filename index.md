@@ -27,4 +27,4 @@ The device is designed to be user-friendly, easy to use, and durable.
 
 
 # Appendix
-[Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
+[Appendix A - Team Orgnization](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
