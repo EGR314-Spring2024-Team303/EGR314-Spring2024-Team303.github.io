@@ -81,5 +81,5 @@ title: Appendix: Team Organization
 
 ## Roles & Responsibility
 
-![table 3 - Team Organization ](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/e9e94139-7d8a-432e-abe4-b863968a4f1c)
+![table 3 - Team Organization](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/e9e94139-7d8a-432e-abe4-b863968a4f1c)
 
