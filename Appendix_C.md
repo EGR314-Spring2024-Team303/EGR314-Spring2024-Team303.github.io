@@ -27,8 +27,8 @@ Links to example code: [Option 1](https://ww1.microchip.com/downloads/aemDocumen
 Links to external resources: [Option 1](https://www.youtube.com/watch?v=s3wEH_Y6Bh8),[Option 2](https://www.youtube.com/watch?v=QQd9W5SnXFM), [Option 3](https://www.youtube.com/watch?v=oQk_ttEu6YY)
 
 ![Mircro_Table_3](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/deacbfbc-67c9-42a4-8e46-ef5ac336d7c5)
+![Microcontroller selection table 4](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/54224dc8-ea21-4bb7-9224-2395f0e2d756)
 
-![Mircro_Table_3 1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/9f4b5c47-345c-4608-b7f7-d89ff90d0759)
 
 #### Links to the IC packages/footprint: 
 Option 1: [VQFN](https://www.microchip.com/en-us/support/package-drawings), [SOIC](https://www.microchip.com/en-us/support/package-drawings)
@@ -39,6 +39,8 @@ Option 3:[TQFP](https://www.microchip.com/en-us/support/package-drawings), [QFN]
 
 Links to programming hardware: [Option 1](https://www.microchip.com/en-us/product/PIC18F27Q10), [Option 2](https://www.microchip.com/en-us/product/PIC18F47Q84#document-table), [Option 3](https://www.microchip.com/en-us/product/pic18f47q10)
 
-![Mircro_Table_4](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/75cf1fed-e75d-4e0d-b7d6-5bddd85fe176)
+![Microcontroller selection table 5](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/b34d7fd5-4b8d-4e18-baf2-af40e0995487)
+
+![Microcontroller selection table 6](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/1e7e188a-9667-4502-b4f1-85af8b011f8b)
 
 
