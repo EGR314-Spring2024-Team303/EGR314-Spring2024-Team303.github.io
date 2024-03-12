@@ -6,7 +6,7 @@ Title: Hardware Proposal
 
 # Hardware Proposal 
 
-[Team303-Schematic-Update.pdf](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/files/14568160/Team303-Schematic-Update.pdf)
+
 
 [Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
 
