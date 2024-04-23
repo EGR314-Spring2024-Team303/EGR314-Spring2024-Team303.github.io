@@ -1,8 +1,8 @@
 ---
 title: Component Selection 
 ---
-[Home](/index.md)|[Team organization](/Team_organization.md) | [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md) | [Design Ideation](/Design_Ideation.md) | [Selected Design](/Selected_Design.md) 
-[Block Diagram of the product](/Block_Diagram_of_the_product.md) |[Component Selection](/Component_Selection.md) |[Microcontroller Selection](/Microcontroller_Selection.md) | [Final Hardware Implimentation](/Final_Hardware_Implementation.md) | [Final Software Implimentation](/Software_Proposal.md) | [System Verification](/System_Verification.md) | [Lessons Learned](/Lessons_Learned.md) | [Recommendations for future students](/Recommendations_for_future_students.md)
+[Home](/index.md) | [Team organization](/Team_organization.md) | [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md) | [Design Ideation](/Design_Ideation.md) | [Selected Design](/Selected_Design.md) 
+[Block Diagram of the product](/Block_Diagram_of_the_product.md) | [Component Selection](/Component_Selection.md) | [Microcontroller Selection](/Microcontroller_Selection.md) | [Final Hardware Implimentation](/Final_Hardware_Implementation.md) | [Final Software Implimentation](/Software_Proposal.md) | [System Verification](/System_Verification.md) | [Lessons Learned](/Lessons_Learned.md) | [Recommendations for future students](/Recommendations_for_future_students.md)
 
 # Component Selection 
 
@@ -12,7 +12,7 @@ title: Component Selection
 * IFX9201SGAUMA1-6A H bridge with SPI Motor Driver
 
 Our team picked IFX9201SG. This particular surface mount H-bridge model has an SPI interface which our team had already experienced in one of the ICC. 
-So, our team is confident to work around this component. Moreover, the range of operating voltage of the component is 3.3V - 5.0V. 
+So, our team is confident to work around this component. Moreover, the component's operating voltage range is 3.3V - 5.0V. 
 
 ## Temperature Sensors 
 <img src ="https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/2faca3f8-fac7-4f8a-b503-419a9ad86b02" width = "300" height = "300">
