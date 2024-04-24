@@ -8,7 +8,7 @@ title: Final Software Implementation
 ## Software Diagrams
 
 ![Software Proposal](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/8b8b9f04-f935-40db-9e36-a7f8a398150d)
-
+## Functionality of the Software Diagram
 
 
 
