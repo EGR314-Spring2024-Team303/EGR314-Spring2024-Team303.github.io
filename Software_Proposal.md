@@ -9,7 +9,9 @@ title: Final Software Implementation
 
 ![Software Proposal](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/8b8b9f04-f935-40db-9e36-a7f8a398150d)
 ## Functionality of the Software Diagram
-
+## Design and Decision making Process
+## Changes Made in the Sofware Diagram
+## Possible Improvements
 
 
 [Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
