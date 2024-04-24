@@ -8,4 +8,8 @@ title: Software Proposal
 
 ![Software Proposal](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156623314/8b8b9f04-f935-40db-9e36-a7f8a398150d)
 
+[Team 303 Verification.pdf](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/files/15088213/Team.303.Verification.pdf)
+
+
 [Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
+[Uploading Team 303 Verification.pdf…]()
