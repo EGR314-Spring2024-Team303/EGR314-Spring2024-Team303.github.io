@@ -5,4 +5,7 @@
 
 ![Team 303 Verification](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/d36138da-08fd-4d98-a846-f7823ca41dd0)
 
-The system verification table serves as a guide for our team's project for what[arts need to be working and what is supposed to be connected. On the legend to the right of the table is what the letters mean.
+
+
+
+In our project, which incorporates a motor driver, 3.3V regulator, temperature sensor, and air pressure sensor, we've established a comprehensive System Verification Table to ensure the functionality and reliability of each component. we have  conducted functional testing for the motor driver and verified the stability of the 3.3V regulator output under various load conditions according to our requirements. The temperature sensor has undergone calibration, with readings consistently falling within the specified accuracy range. Similarly, the air pressure sensor has been calibrated, providing accurate pressure readings. One thee table is completed, Integration testing is done  where all components will be tested together according to our specifications. 
