@@ -18,23 +18,23 @@ Title: User Needs Benchmarking
 Check if all required systems and parts are in the product. Verify the accuracy and speed of data storage and transmission. Assess the product's response time under certain constraints. Ensure compatibility with devices for the WIFI connection.
 
 
-## Usability:
+## Usability
 
 There will be testing to identify any usability issues and  Evaluate the performance  of the user interface. The user feedback will be used to make improvements accordingly. Also, the ease of setup will be tested and adjusted based on consumer feedback.
 
 
-## Reliability:
+## Reliability
 
 The product will be tested under different conditions. Monitor for flaws errors or vulnerabilities with the product. Assess the product's ability to handle prolonged usage. Implement fail-safes and error-handling mechanisms.
 
 
-## Performance:
+## Performance
 
 Measure data storage and WIFI connection strength and speed. Benchmark the product against similar solutions in the market.
 Test the code and fix it for efficiency.
 
 
-## Safety:
+## Safety
 
 
 Conducts tests to make sure the product is safe for children and follows ASU safety guidelines. Check for the products' safety in accordance with the safety standards for the market. industry-specific standards. Use the feedback to add any additional safety if needed.
