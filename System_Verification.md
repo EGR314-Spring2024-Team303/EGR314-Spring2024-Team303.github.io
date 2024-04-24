@@ -4,3 +4,5 @@
 # System Verification
 
 ![Team 303 Verification](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/d36138da-08fd-4d98-a846-f7823ca41dd0)
+
+The system verification table serves as a guide for our team's project for what[arts need to be working and what is supposed to be connected. On the legend to the right of the table is what the letters mean.
