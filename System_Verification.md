@@ -9,3 +9,5 @@
 
 
 In our project, which incorporates a motor driver, 3.3V regulator, temperature sensor, and air pressure sensor, we've established a comprehensive System Verification Table to ensure the functionality and reliability of each component. we have  conducted functional testing for the motor driver and verified the stability of the 3.3V regulator output under various load conditions according to our requirements. The temperature sensor has undergone calibration, with readings consistently falling within the specified accuracy range. Similarly, the air pressure sensor has been calibrated, providing accurate pressure readings. Once the table is completed, Integration testing is done  where all components will be tested together according to our specifications. 
+
+[Appendix A](/Appendix_A.md) | [Appendix B](/Appendix_B.md) | [Appendix C](/Appendix_C.md) | [Appendix D](/Appendix_D.md)
