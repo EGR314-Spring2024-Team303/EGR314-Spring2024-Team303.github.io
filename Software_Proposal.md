@@ -11,6 +11,9 @@ title: Final Software Implementation
 ## Functionality of the Software Diagram
 ## Design and Decision making Process
 ## Changes Made in the Sofware Diagram
+### 1. The main loop includes the sensors reading values instead of being in the outside loop.
+### 2. We don't have a stop drive loop interrupt (we only had the flag raise up)
+### 3. 
 ## Possible Improvements
 
 
