@@ -16,4 +16,8 @@ title: Appendix D
 
 ## System Module
 ![System Module](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/c615df09-8b51-4826-b839-668423926514)
+![MSSP 1](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/e88c08bf-9011-4d3c-95a6-b3ead449dc3d)
+
+## Pin Module/ Microcontroller View
+![Pin module](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/7e1f1f89-3c9a-4f17-b8b1-eae2fc1f011f)
 
