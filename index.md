@@ -13,7 +13,8 @@ title: Home
 * Sean Vellequete
 
 # Checkpoint 1 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R-VpR88BmgA?si=8asg205ILbVlzzUh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_t_s8UqO2uU?si=1K1vNLdfRQpJ6sAR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Introduction 
 Ground Moving Weather Station 01 is a device that can accurately read and detect specific weather you want to find while being mobile on the ground on all terrains and harsh environments. 
