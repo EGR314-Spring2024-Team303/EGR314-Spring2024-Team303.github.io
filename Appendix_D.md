@@ -11,3 +11,9 @@ title: Appendix D
 
 # MQTT Topic Table
 ![Topic Table](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/9919d1a5-ea55-40c7-9048-11ab02e601d0)
+
+# MCC Configuration
+
+## System Module
+![System Module](https://github.com/EGR314-Spring2024-Team303/EGR314-Spring2024-Team303.github.io/assets/156718379/c615df09-8b51-4826-b839-668423926514)
+
