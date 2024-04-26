@@ -20,7 +20,7 @@ title: Home
 Ground Moving Weather Station 01 is a device that can accurately read and detect specific weather you want to find while being mobile on the ground on all terrains and harsh environments. 
 The device is designed to be user-friendly, easy to use, and durable. 
 
-[Team organization](/Team_organization.md) | [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md) | [Design Ideation](/Design_Ideation.md) | [Final Selected Design](/Selected_Design.md) 
+[Team organization](/Team_organization.md) | [User Needs, Benchmarking, and Requirements](/User_Needs_Benchmarking_Requirements.md) | [Design Ideation](/Design_Ideation.md) | [Final Selected Design](/Selected_Design.md) |
 [Final Block Diagram of the product](/Block_Diagram_of_the_product.md) | [Final Component Selection](/Component_Selection.md) | [Microcontroller Selection](/Microcontroller_Selection.md) | [Final Hardware Implimentation](/Final_Hardware_Implementation.md) | [Final Software Implimentation](/Software_Proposal.md) | [System Verification](/System_Verification.md) | [Lessons Learned](/Lessons_Learned.md) | [Recommendations for future students](/Recommendations_for_future_students.md)
 
 
